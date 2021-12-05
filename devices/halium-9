@@ -9,6 +9,9 @@ lxc-android
 # Libhybris
 libhybris-git
 
+# Post-install
+halium9-post-install
+
 # oFono
 libmce-glib
 libwspcodec
