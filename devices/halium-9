@@ -8,3 +8,12 @@ lxc-android
 
 # Libhybris
 libhybris-git
+
+# oFono
+libmce-glib
+libwspcodec
+ofono-hybris
+libgrilio
+ofono-ril-plugin
+libgbinder-radio
+ofono-ril-binder-plugin
