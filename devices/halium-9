@@ -17,3 +17,9 @@ libgrilio
 ofono-ril-plugin
 libgbinder-radio
 ofono-ril-binder-plugin
+
+# Pulseaudio
+pulseaudio-modules-droid
+pulseaudio-modules-droid-hidl
+audiosystem-passthrough
+pulseaudio-config-droid
