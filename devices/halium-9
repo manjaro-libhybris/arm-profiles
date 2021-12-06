@@ -6,8 +6,8 @@ hybris-usb
 # Lxc config
 lxc-android
 
-# Libhybris
-libhybris-git
+# Libhybris 
+libhybris-28-glvnd
 
 # Post-install
 halium9-post-install
