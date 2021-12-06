@@ -18,6 +18,7 @@
 >halium-9 phoc-hybris
 >halium-9 wlroots-hybris
 >halium-9 phosh-config-hybris
+>halium-9 gst-plugins-bad-hybris
 
 # Minimal packages
 glibc-locales
