@@ -16,3 +16,9 @@ systemd-oomd.service
 #>pinephone waydroid-container.service
 >pinephone siglo.service
 #>pinephone eg25-autorestart.service
+>halium-9 halium9-post-install.service
+>halium-9 lxc@android.service
+>halium-9 android-mount.service
+>halium-9 ofono.service
+>halium-9 usb-tethering.service
+>halium-9 sshd.service

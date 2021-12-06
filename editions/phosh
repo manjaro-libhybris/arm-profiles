@@ -14,6 +14,11 @@
 >pinephone vvmplayer
 #>pinephone eg25-autorestart
 
+>halium-9 mobile-config-firefox
+>halium-9 phoc-hybris
+>halium-9 wlroots-hybris
+>halium-9 phosh-config-hybris
+
 # Minimal packages
 glibc-locales
 sudo
@@ -36,17 +41,19 @@ mutter
 phosh
 >pinephone phosh-antispam
 >pinephone gnome-calls
+>halium-9 gnome-calls
 chatty
 #>pinephone epiphany
 evince-mobile
 powersupply
 >pinephone purple-mm-sms
+>halium-9 purple-mm-sms
 purple-matrix
 purple-telegram
 kgx
 sound-theme-phosh
 squeekboard
-megapixels
+>pinephone megapixels
 numberstation
 xdg-user-dirs
 gnome-contacts-mobile
