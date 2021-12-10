@@ -2,6 +2,7 @@
 haveged.service
 NetworkManager.service
 >pinephone ModemManager.service
+>halium-9 ModemManager.service
 phosh.service
 bluetooth.service
 zswap-arm.service

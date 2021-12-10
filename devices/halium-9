@@ -20,6 +20,7 @@ libgrilio
 ofono-ril-plugin
 libgbinder-radio
 ofono-ril-binder-plugin
+ofono2mm
 
 # Pulseaudio
 pulseaudio-modules-droid
