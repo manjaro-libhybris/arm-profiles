@@ -23,3 +23,9 @@ systemd-oomd.service
 >halium-9 ofono.service
 >halium-9 usb-tethering.service
 >halium-9 sshd.service
+>volla-yggdrasil voila-yggdrasil-post-install.service
+>volla-yggdrasil lxc@android.service
+>volla-yggdrasil android-mount.service
+>volla-yggdrasil ofono.service
+>volla-yggdrasil usb-tethering.service
+>volla-yggdrasil sshd.service

@@ -18,3 +18,6 @@ lightdm.service
 >halium-9 ofono.service
 >halium-9 ofonoctl.service
 >halium-9 halium9-post-install.service
+>volla-yggdrasil ofono.service
+>volla-yggdrasil ofonoctl.service
+>volla-yggdrasil volla-yggdrasil-post-install.service

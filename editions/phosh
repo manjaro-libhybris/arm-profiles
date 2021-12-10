@@ -21,6 +21,13 @@
 >halium-9 gst-plugins-bad-hybris
 >halium-9 gst-plugins-bad-libs-hybris
 
+>volla-yggdrasil mobile-config-firefox
+>volla-yggdrasil phoc-hybris
+>volla-yggdrasil wlroots-hybris
+>volla-yggdrasil phosh-config-hybris
+>volla-yggdrasil gst-plugins-bad-hybris
+>volla-yggdrasil gst-plugins-bad-libs-hybris
+
 # Minimal packages
 glibc-locales
 sudo
@@ -44,12 +51,14 @@ phosh
 >pinephone phosh-antispam
 >pinephone gnome-calls
 >halium-9 gnome-calls
+>volla-yggdrasil gnome-calls
 chatty
 #>pinephone epiphany
 evince-mobile
 powersupply
 >pinephone purple-mm-sms
 >halium-9 purple-mm-sms
+>volla-yggdrasil purple-mm-sms
 purple-matrix
 purple-telegram
 kgx

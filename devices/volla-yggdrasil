@@ -1,0 +1,29 @@
+## Maintained by luka177##
+
+# USB
+hybris-usb
+
+# Lxc config
+lxc-android
+
+# Libhybris 
+libhybris-28-glvnd
+
+# Post-install
+volla-yggdrasil-post-install
+
+# oFono
+libmce-glib
+libwspcodec
+ofono-hybris
+libgrilio
+ofono-ril-plugin
+libgbinder-radio
+ofono-ril-binder-plugin
+ofono2mm
+
+# Pulseaudio
+pulseaudio-modules-droid
+pulseaudio-modules-droid-hidl
+audiosystem-passthrough
+pulseaudio-config-droid
