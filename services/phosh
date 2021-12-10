@@ -3,6 +3,7 @@ haveged.service
 NetworkManager.service
 >pinephone ModemManager.service
 >halium-9 ModemManager.service
+>volla-yggdrasil ModemManager.service
 phosh.service
 bluetooth.service
 zswap-arm.service
@@ -29,3 +30,4 @@ systemd-oomd.service
 >volla-yggdrasil ofono.service
 >volla-yggdrasil usb-tethering.service
 >volla-yggdrasil sshd.service
+>volla-yggdrasil wifi-fix.service
