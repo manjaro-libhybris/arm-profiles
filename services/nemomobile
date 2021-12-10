@@ -15,3 +15,6 @@ lightdm.service
 >pinephone ofono.service
 >pinephone ofonoctl.service
 >pinephone pinephone-modem-scripts.pinephone-modem-setup.service
+>halium-9 ofono.service
+>halium-9 ofonoctl.service
+>halium-9 halium9-post-install.service
