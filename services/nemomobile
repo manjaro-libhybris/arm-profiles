@@ -25,3 +25,4 @@ lightdm.service
 >volla-yggdrasil volla-yggdrasil-post-install.service
 >volla-yggdrasil lxc@android.service
 >volla-yggdrasil android-mount.service
+>volla-yggdrasil wifi-fix.service
