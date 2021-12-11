@@ -3,6 +3,7 @@
 # Device specific packages
 >pinephone nemo-device-pinephone
 >pinetab nemo-device-pinetab
+>volla-yggdrasil nemo-device-yggdrasil
 
 bootsplash-theme-nemo
 
