@@ -31,3 +31,9 @@ systemd-oomd.service
 >volla-yggdrasil usb-tethering.service
 >volla-yggdrasil sshd.service
 >volla-yggdrasil wifi-fix.service
+>google-sargo google-sargo-post-install.service
+>google-sargo lxc@android.service
+>google-sargo android-mount.service
+>google-sargo ofono.service
+>google-sargo usb-tethering.service
+>google-sargo sshd.service
