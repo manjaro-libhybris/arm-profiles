@@ -8,6 +8,7 @@ lxc-android
 
 # Libhybris 
 libhybris-28-glvnd
+halium-wrappers
 
 # Post-install
 halium9-post-install
@@ -27,3 +28,6 @@ pulseaudio-modules-droid
 pulseaudio-modules-droid-hidl
 audiosystem-passthrough
 pulseaudio-config-droid
+
+# Sensors
+sensorfw-hybris
