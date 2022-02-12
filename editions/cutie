@@ -1,0 +1,83 @@
+## Maintained by Erik Inkinen ##
+
+# Device specific packages
+#>pinephone cutie-device-pinephone
+#>pinetab cutie-device-pinetab
+>volla-yggdrasil cutie-device-halium9-gsi
+>halium9 cutie-device-halium9-gsi
+>google-sargo cutie-device-google-sargo
+
+# Minimal packages
+sudo
+parted
+openssh
+
+# OpenGLES qt packages
+qt5-es2-base
+qt5-es2-declarative
+qt5-es2-multimedia
+qt5-es2-wayland
+
+# Multimedia packages
+gst-libav
+gst-plugins-bad
+gst-plugins-base
+gst-plugins-ugly
+ffmpeg-pp
+
+# Additional packages
+accountsservice
+lightdm
+mapplauncherd-git
+mce
+mce-plugin-libhybris-nonandroid-git
+dsme
+swi-prolog7
+ohm
+ohm-plugin-ruleengine
+pulseaudio-modules-nemo
+pulseaudio-module-policy-enforcement
+wpa_supplicant
+ofonoctl
+nemo-qml-plugin-devicelock
+nemo-qml-plugin-configuration
+ttf-lato
+qt5-quickcontrols2
+qt5-feedback-haptics-native-vibrator
+papirus-maia-icon-theme
+qt5-svg
+
+# Main cutie packages
+qt5-lipstick-cutie
+qml-module-cutie
+maliit-cutie-keyboard
+lipstick-cutie-home
+cutie-wayland-session
+cutie-widget-playground
+cutie-wayland-session
+maliit-cutie-keyboard
+fingerterm-git
+
+# Other
+xdg-user-dirs
+mesa
+alsa-utils
+pulseaudio-bluetooth
+wget
+vim
+nano
+networkmanager
+presage
+hunspell
+
+>halium-9 qt5-qpa-hwcomposer-plugin
+>halium-9 gst-plugins-bad-hybris
+>halium-9 gst-plugins-bad-libs-hybris
+
+>volla-yggdrasil qt5-qpa-hwcomposer-plugin
+>volla-yggdrasil gst-plugins-bad-hybris
+>volla-yggdrasil gst-plugins-bad-libs-hybris
+
+>google-sargo qt5-qpa-hwcomposer-plugin
+>google-sargo gst-plugins-bad-hybris
+>google-sargo gst-plugins-bad-libs-hybris
