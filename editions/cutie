@@ -33,6 +33,7 @@ mce
 mce-plugin-libhybris-nonandroid-git
 dsme
 swi-prolog7
+libprolog-cutie
 ohm
 ohm-plugin-ruleengine
 pulseaudio-modules-nemo
@@ -54,7 +55,7 @@ maliit-cutie-keyboard
 lipstick-cutie-home
 cutie-wayland-session
 cutie-widget-playground
-cutie-wayland-session
+cutie-browser
 maliit-cutie-keyboard
 fingerterm-git
 
