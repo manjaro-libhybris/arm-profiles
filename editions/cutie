@@ -3,7 +3,7 @@
 # Device specific packages
 #>pinephone cutie-device-pinephone
 #>pinetab cutie-device-pinetab
->volla-yggdrasil cutie-device-halium9-gsi
+>volla-yggdrasil cutie-device-volla-yggdrasil
 >halium9 cutie-device-halium9-gsi
 >google-sargo cutie-device-google-sargo
 
