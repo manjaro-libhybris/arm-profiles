@@ -1,5 +1,4 @@
 sshd.service 
-NetworkManager.service
 bluetooth.service
 tlp.service
 zswap-arm.service
@@ -10,7 +9,7 @@ mce.service
 dsme.service
 lightdm.service
 ohmd.service
-NetworkManager.service
+connman.service
 usb-tethering.service
 sensorfwd.service
 >pinephone eg25-manager.service
