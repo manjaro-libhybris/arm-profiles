@@ -16,7 +16,7 @@ volla-yggdrasil-post-install
 # oFono
 libmce-glib
 libwspcodec
-ofono-hybris
+ofono
 libgrilio
 ofono-ril-plugin
 libgbinder-radio
