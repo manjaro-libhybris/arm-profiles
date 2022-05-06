@@ -16,7 +16,7 @@ halium9-post-install
 # oFono
 libmce-glib
 libwspcodec
-ofono-hybris
+ofono
 libgrilio
 ofono-ril-plugin
 libgbinder-radio
