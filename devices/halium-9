@@ -7,7 +7,7 @@ hybris-usb
 lxc-android
 
 # Libhybris 
-libhybris-28-glvnd
+libhybris-glvnd
 halium-wrappers
 
 # Post-install
