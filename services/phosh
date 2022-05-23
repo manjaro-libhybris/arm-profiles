@@ -37,3 +37,6 @@ systemd-oomd.service
 >google-sargo ofono.service
 >google-sargo usb-tethering.service
 >google-sargo sshd.service
+>google-sargo iio-sensor-proxy.service
+>volla-yggdrasil iio-sensor-proxy.service
+>halium-9 iio-sensor-proxy.service
