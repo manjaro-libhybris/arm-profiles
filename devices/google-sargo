@@ -32,3 +32,4 @@ pulseaudio-config-droid
 # Sensors
 sensorfw-hybris
 feedbackd-hybris
+hadess-sensorfw-proxy
