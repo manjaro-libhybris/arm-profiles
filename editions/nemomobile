@@ -37,22 +37,22 @@ ohm
 ohm-plugin-ruleengine
 
 # Main glacier packages
-lipstick-glacier-home-git
-glacier-calc-git
-glacier-camera-git
-glacier-contacts-git
-glacier-filemuncher-git
-glacier-gallery-git
-glacier-messages-git
-glacier-music-git
+lipstick-glacier-home
+glacier-calc
+glacier-camera
+glacier-contacts
+glacier-filemuncher
+glacier-gallery
+glacier-messages
+glacier-music
 glacier-wayland-session
-glacier-browser-git
-glacier-mail-git
-glacier-testtool-git
-glacier-packagemanager-git
-glacier-dialer-git
+glacier-browser
+glacier-mail
+glacier-testtool
+glacier-packagemanager
+glacier-dialer
 fingerterm-git
-qt5-quickcontrols-nemo-examples-git
+qt5-quickcontrols-nemo-examples
 
 # Other
 xdg-user-dirs
