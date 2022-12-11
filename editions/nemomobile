@@ -51,7 +51,7 @@ glacier-mail
 glacier-testtool
 glacier-packagemanager
 glacier-dialer
-fingerterm-git
+fingerterm
 qt5-quickcontrols-nemo-examples
 
 # Other
@@ -62,9 +62,9 @@ pulseaudio-bluetooth
 wget
 vim
 nano
-maliit-nemo-keyboard-git
+maliit-nemo-keyboard
 
-nemo-theme-openmoko-git
+nemo-theme-openmoko
 
 >halium-9 qt5-qpa-hwcomposer-plugin
 >halium-9 gst-plugins-bad-hybris
