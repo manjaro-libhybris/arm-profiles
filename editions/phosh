@@ -18,8 +18,8 @@
 >halium-9 phoc-hybris
 >halium-9 wlroots-hybris
 >halium-9 phosh-config-hybris
->halium-9 gst-plugins-bad-hybris
->halium-9 gst-plugins-bad-libs-hybris
+#>halium-9 gst-plugins-bad-hybris
+#>halium-9 gst-plugins-bad-libs-hybris
 >halium-9 callaudiod-hybris
 >halium-9 phosh-hybris
 >halium-9 gnome-settings-daemon-hybris
@@ -28,8 +28,8 @@
 >volla-yggdrasil phoc-hybris
 >volla-yggdrasil wlroots-hybris
 >volla-yggdrasil phosh-config-hybris
->volla-yggdrasil gst-plugins-bad-hybris
->volla-yggdrasil gst-plugins-bad-libs-hybris
+#>volla-yggdrasil gst-plugins-bad-hybris
+#>volla-yggdrasil gst-plugins-bad-libs-hybris
 >volla-yggdrasil callaudiod-hybris
 >volla-yggdrasil phosh-hybris
 >volla-yggdrasil gnome-settings-daemon-hybris
@@ -38,8 +38,8 @@
 >google-sargo phoc-hybris
 >google-sargo wlroots-hybris
 >google-sargo phosh-config-hybris
->google-sargo gst-plugins-bad-hybris
->google-sargo gst-plugins-bad-libs-hybris
+#>google-sargo gst-plugins-bad-hybris
+#>google-sargo gst-plugins-bad-libs-hybris
 >google-sargo callaudiod-hybris
 >google-sargo phosh-hybris
 >google-sargo gnome-settings-daemon-hybris
