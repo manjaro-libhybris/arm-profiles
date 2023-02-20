@@ -2,17 +2,6 @@
 ## Only builds on arm-unstable and arm-testing branch currently ##
 
 # Phone specific packages
->pinephone pinephone-modem-scripts
->pinephone alsa-ucm-pinephone
-#>pinephone flashlight
->pinephone modemmanager-pp
-#>pinephone anbox-image-aarch64
-#>pinephone anbox
-#>pinephone waydroid-image
-#>pinephone waydroid
->pinephone mobile-config-firefox
->pinephone vvmplayer
-#>pinephone eg25-autorestart
 
 >halium-9 mobile-config-firefox
 >halium-9 phoc-hybris
@@ -23,16 +12,6 @@
 >halium-9 callaudiod-hybris
 >halium-9 phosh-hybris
 >halium-9 gnome-settings-daemon-hybris
-
->volla-yggdrasil mobile-config-firefox
->volla-yggdrasil phoc-hybris
->volla-yggdrasil wlroots-hybris
->volla-yggdrasil phosh-config-hybris
-#>volla-yggdrasil gst-plugins-bad-hybris
-#>volla-yggdrasil gst-plugins-bad-libs-hybris
->volla-yggdrasil callaudiod-hybris
->volla-yggdrasil phosh-hybris
->volla-yggdrasil gnome-settings-daemon-hybris
 
 >google-sargo mobile-config-firefox
 >google-sargo phoc-hybris
@@ -64,25 +43,18 @@ bash-completion
 gtk3-mobile
 mutter
 phosh
->pinephone phosh-antispam
->pinephone gnome-calls
 >halium-9 gnome-calls
->volla-yggdrasil gnome-calls
 >google-sargo gnome-calls
 chatty
-#>pinephone epiphany
 evince-mobile
 powersupply
->pinephone purple-mm-sms
 >halium-9 purple-mm-sms
->volla-yggdrasil purple-mm-sms
 >google-sargo purple-mm-sms
 purple-matrix
 purple-telegram
 kgx
 sound-theme-phosh
 squeekboard
->pinephone megapixels
 numberstation
 xdg-user-dirs
 gnome-contacts-mobile
@@ -131,7 +103,6 @@ pulseaudio-bluetooth
 #pulseaudio-alsa
 #pulseaudio-jack
 pamac-gtk
->pinephone pamac-mobile-integration
 pamac-gnome-integration
 portfolio-file-manager
 iio-sensor-proxy
