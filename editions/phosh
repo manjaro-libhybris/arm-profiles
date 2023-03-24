@@ -5,7 +5,7 @@
 >halium-9 phosh-config-hybris
 >halium-9 gst-plugins-bad-hybris
 >halium-9 gst-plugins-bad-libs-hybris
->halium-9 gst-plugins-wpe-hybris
+>halium-9 gst-plugin-wpe-hybris
 >halium-9 callaudiod-hybris
 >halium-9 phosh-hybris
 >halium-9 gnome-settings-daemon-hybris
@@ -17,7 +17,7 @@
 >halium-10 phosh-config-hybris
 >halium-10 gst-plugins-bad-hybris
 >halium-10 gst-plugins-bad-libs-hybris
->halium-10 gst-plugins-wpe-hybris
+>halium-10 gst-plugin-wpe-hybris
 >halium-10 callaudiod-hybris
 >halium-10 phosh-hybris
 >halium-10 gnome-settings-daemon-hybris
@@ -29,7 +29,7 @@
 >halium-11 phosh-config-hybris
 >halium-11 gst-plugins-bad-hybris
 >halium-11 gst-plugins-bad-libs-hybris
->halium-11 gst-plugins-wpe-hybris
+>halium-11 gst-plugin-wpe-hybris
 >halium-11 callaudiod-hybris
 >halium-11 phosh-hybris
 >halium-11 gnome-settings-daemon-hybris
@@ -41,7 +41,7 @@
 >google-sargo phosh-config-hybris
 >google-sargo gst-plugins-bad-hybris
 >google-sargo gst-plugins-bad-libs-hybris
->google-sargo gst-plugins-wpe-hybris
+>google-sargo gst-plugin-wpe-hybris
 >google-sargo callaudiod-hybris
 >google-sargo phosh-hybris
 >google-sargo gnome-settings-daemon-hybris
