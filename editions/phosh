@@ -1,27 +1,52 @@
-## Maintained by Philm and Spikerquy ##
-## Only builds on arm-unstable and arm-testing branch currently ##
-
 # Phone specific packages
 
->halium-9 mobile-config-firefox
 >halium-9 phoc-hybris
 >halium-9 wlroots-hybris
 >halium-9 phosh-config-hybris
-#>halium-9 gst-plugins-bad-hybris
-#>halium-9 gst-plugins-bad-libs-hybris
+>halium-9 gst-plugins-bad-hybris
+>halium-9 gst-plugins-bad-libs-hybris
+>halium-9 gst-plugins-wpe-hybris
 >halium-9 callaudiod-hybris
 >halium-9 phosh-hybris
 >halium-9 gnome-settings-daemon-hybris
+>halium-9 gnome-calls
+>halium-9 purple-mm-sms
 
->google-sargo mobile-config-firefox
+>halium-10 phoc-hybris
+>halium-10 wlroots-hybris
+>halium-10 phosh-config-hybris
+>halium-10 gst-plugins-bad-hybris
+>halium-10 gst-plugins-bad-libs-hybris
+>halium-10 gst-plugins-wpe-hybris
+>halium-10 callaudiod-hybris
+>halium-10 phosh-hybris
+>halium-10 gnome-settings-daemon-hybris
+>halium-10 gnome-calls
+>halium-10 purple-mm-sms
+
+>halium-11 phoc-hybris
+>halium-11 wlroots-hybris
+>halium-11 phosh-config-hybris
+>halium-11 gst-plugins-bad-hybris
+>halium-11 gst-plugins-bad-libs-hybris
+>halium-11 gst-plugins-wpe-hybris
+>halium-11 callaudiod-hybris
+>halium-11 phosh-hybris
+>halium-11 gnome-settings-daemon-hybris
+>halium-11 gnome-calls
+>halium-11 purple-mm-sms
+
 >google-sargo phoc-hybris
 >google-sargo wlroots-hybris
 >google-sargo phosh-config-hybris
-#>google-sargo gst-plugins-bad-hybris
-#>google-sargo gst-plugins-bad-libs-hybris
+>google-sargo gst-plugins-bad-hybris
+>google-sargo gst-plugins-bad-libs-hybris
+>google-sargo gst-plugins-wpe-hybris
 >google-sargo callaudiod-hybris
 >google-sargo phosh-hybris
 >google-sargo gnome-settings-daemon-hybris
+>google-sargo gnome-calls
+>google-sargo purple-mm-sms
 
 # Minimal packages
 glibc-locales
@@ -43,13 +68,9 @@ bash-completion
 gtk3-mobile
 mutter
 phosh
->halium-9 gnome-calls
->google-sargo gnome-calls
 chatty
 evince-mobile
 powersupply
->halium-9 purple-mm-sms
->google-sargo purple-mm-sms
 purple-matrix
 purple-telegram
 kgx
@@ -88,8 +109,6 @@ gedit
 #geary-mobile
 geary
 
-#hdr-plus-git
-
 # Theming
 manjaro-arm-wallpapers
 manjaro-icons
@@ -97,11 +116,7 @@ papirus-maia-icon-theme
 
 # Other packages
 bluez
-#pipewire-alsa
-#pipewire-pulse
 pulseaudio-bluetooth
-#pulseaudio-alsa
-#pulseaudio-jack
 pamac-gtk
 pamac-gnome-integration
 portfolio-file-manager
@@ -110,12 +125,12 @@ networkmanager
 gnome-keyring
 polkit
 xorg-server-xwayland
-#hwtest
 firefox
 telegram-desktop
-qt5-wayland # for telegram-desktop
+qt5-wayland
 noto-fonts-emoji
 noto-fonts-cjk
 siglo
 postmarketos-tweaks-phosh
 confy
+mobile-config-firefox

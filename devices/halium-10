@@ -1,7 +1,7 @@
 ## Maintained by Bardia Moshiri ##
 
 # Halium image
-halium-9-sargo
+halium-10-gsi
 
 # USB
 hybris-usb
@@ -11,13 +11,13 @@ lxc-android
 parse-android-dynparts
 
 # Libhybris
-android-headers-28
+android-headers-29
 libhybris
 halium-wrappers
 hybris-quirks
 
 # Post-install
-google-sargo-post-install
+halium10-post-install
 
 # oFono
 libmce-glib

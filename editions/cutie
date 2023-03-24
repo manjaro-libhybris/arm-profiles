@@ -3,7 +3,6 @@
 # Device specific packages
 #>pinephone cutie-device-pinephone
 #>pinetab cutie-device-pinetab
->volla-yggdrasil cutie-device-volla-yggdrasil
 >halium9 cutie-device-halium9-gsi
 >google-sargo cutie-device-google-sargo
 
@@ -74,10 +73,6 @@ hunspell
 >halium-9 qt5-qpa-hwcomposer-plugin
 >halium-9 gst-plugins-bad-hybris
 >halium-9 gst-plugins-bad-libs-hybris
-
->volla-yggdrasil qt5-qpa-hwcomposer-plugin
->volla-yggdrasil gst-plugins-bad-hybris
->volla-yggdrasil gst-plugins-bad-libs-hybris
 
 >google-sargo qt5-qpa-hwcomposer-plugin
 >google-sargo gst-plugins-bad-hybris

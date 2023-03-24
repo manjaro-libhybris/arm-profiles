@@ -1,9 +1,7 @@
-#sshd.service
+sshd.service
 haveged.service
 NetworkManager.service
 >pinephone ModemManager.service
->halium-9 ModemManager.service
->volla-yggdrasil ModemManager.service
 phosh.service
 bluetooth.service
 zswap-arm.service
@@ -18,25 +16,39 @@ systemd-oomd.service
 #>pinephone waydroid-container.service
 >pinephone siglo.service
 #>pinephone eg25-autorestart.service
+
 >halium-9 halium9-post-install.service
 >halium-9 lxc@android.service
 >halium-9 android-mount.service
 >halium-9 ofono.service
 >halium-9 usb-tethering.service
->halium-9 sshd.service
->volla-yggdrasil volla-yggdrasil-post-install.service
->volla-yggdrasil lxc@android.service
->volla-yggdrasil android-mount.service
->volla-yggdrasil ofono.service
->volla-yggdrasil usb-tethering.service
->volla-yggdrasil sshd.service
->volla-yggdrasil wifi-fix.service
+>halium-9 iio-sensor-proxy.service
+>halium-9 bluebinder
+>halium-9 ModemManager.service
+
+>halium-10 halium10-post-install.service
+>halium-10 lxc@android.service
+>halium-10 android-mount.service
+>halium-10 ofono.service
+>halium-10 usb-tethering.service
+>halium-10 iio-sensor-proxy.service
+>halium-10 bluebinder
+>halium-10 ModemManager.service
+
+>halium-11 halium11-post-install.service
+>halium-11 lxc@android.service
+>halium-11 android-mount.service
+>halium-11 ofono.service
+>halium-11 usb-tethering.service
+>halium-11 iio-sensor-proxy.service
+>halium-11 bluebinder
+>halium-11 ModemManager.service
+
 >google-sargo google-sargo-post-install.service
 >google-sargo lxc@android.service
 >google-sargo android-mount.service
 >google-sargo ofono.service
 >google-sargo usb-tethering.service
->google-sargo sshd.service
 >google-sargo iio-sensor-proxy.service
->volla-yggdrasil iio-sensor-proxy.service
->halium-9 iio-sensor-proxy.service
+>google-sargo bluebinder
+>google-sargo ModemManager.service

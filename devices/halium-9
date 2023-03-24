@@ -1,14 +1,20 @@
-## Maintained by luka177##
+## Maintained by Bardia Moshiri ##
+
+# Halium image
+halium-9-gsi
 
 # USB
 hybris-usb
 
-# Lxc config
+# LXC
 lxc-android
+parse-android-dynparts
 
-# Libhybris 
-libhybris-glvnd
+# Libhybris
+android-headers-28
+libhybris
 halium-wrappers
+hybris-quirks
 
 # Post-install
 halium9-post-install
@@ -24,7 +30,7 @@ ofono-ril-binder-plugin
 ofono2mm
 
 # Pulseaudio
-pulseaudio-modules-droid
+pulseaudio-modules-droid-jb2q
 pulseaudio-modules-droid-hidl
 audiosystem-passthrough
 pulseaudio-config-droid
@@ -33,3 +39,10 @@ pulseaudio-config-droid
 sensorfw-hybris
 feedbackd-hybris
 hadess-sensorfw-proxy
+
+# Boot animation
+plymouth-hybris
+plymouth-theme-manjaro
+
+# Bluetooth
+bluebinder
