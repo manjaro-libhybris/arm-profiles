@@ -10,7 +10,6 @@
 >halium-9 phosh-hybris
 >halium-9 gnome-settings-daemon-hybris
 >halium-9 gnome-calls
->halium-9 purple-mm-sms
 
 >halium-10 phoc-hybris
 >halium-10 wlroots-hybris
@@ -22,7 +21,6 @@
 >halium-10 phosh-hybris
 >halium-10 gnome-settings-daemon-hybris
 >halium-10 gnome-calls
->halium-10 purple-mm-sms
 
 >halium-11 phoc-hybris
 >halium-11 wlroots-hybris
@@ -34,7 +32,6 @@
 >halium-11 phosh-hybris
 >halium-11 gnome-settings-daemon-hybris
 >halium-11 gnome-calls
->halium-11 purple-mm-sms
 
 >google-sargo phoc-hybris
 >google-sargo wlroots-hybris
@@ -46,7 +43,6 @@
 >google-sargo phosh-hybris
 >google-sargo gnome-settings-daemon-hybris
 >google-sargo gnome-calls
->google-sargo purple-mm-sms
 
 # Minimal packages
 glibc-locales
@@ -71,42 +67,28 @@ phosh
 chatty
 evince-mobile
 powersupply
-purple-matrix
-purple-telegram
 kgx
 sound-theme-phosh
 squeekboard
-numberstation
 xdg-user-dirs
-gnome-contacts-mobile
+01gnome-contacts-mobile
 gnome-control-center-mobile
-#gnome-software-mobile
 gnome-usage-mobile
 gnome-sound-recorder
 gnome-initial-setup-mobile
-gnome-todo-mobile
 geoclue-mobile
 dnsmasq
 wake-mobile
 
 # Gnome packages
-gnome-authenticator
 gnome-calculator-mobile
 gnome-clocks
 gnome-keyring
-gnome-maps
-gnome-2048
-gnome-calendar-mobile
-gnome-chess
-gnuchess 
 file-roller
 fractal
-#gnote
 eog
-gnome-podcasts
 lollypop
 gedit
-#geary-mobile
 geary
 
 # Theming
@@ -122,15 +104,11 @@ pamac-gnome-integration
 portfolio-file-manager
 iio-sensor-proxy
 networkmanager
-gnome-keyring
 polkit
 xorg-server-xwayland
 firefox
-telegram-desktop
 qt5-wayland
 noto-fonts-emoji
 noto-fonts-cjk
-siglo
 postmarketos-tweaks-phosh
-confy
 mobile-config-firefox
