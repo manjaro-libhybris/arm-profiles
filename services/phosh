@@ -25,6 +25,11 @@ systemd-oomd.service
 >halium-9 iio-sensor-proxy.service
 >halium-9 bluebinder
 >halium-9 ModemManager.service
+>halium-9 sensorfwd
+>halium-9 boot-wlan.service
+>halium-9 ipa-enable.service
+>halium-9 wcnss-enable.service
+>halium-9 lmk-disable.service
 
 >halium-10 halium10-post-install.service
 >halium-10 lxc@android.service
@@ -34,6 +39,11 @@ systemd-oomd.service
 >halium-10 iio-sensor-proxy.service
 >halium-10 bluebinder
 >halium-10 ModemManager.service
+>halium-10 sensorfwd
+>halium-10 boot-wlan.service
+>halium-10 ipa-enable.service
+>halium-10 wcnss-enable.service
+>halium-10 lmk-disable.service
 
 >halium-11 halium11-post-install.service
 >halium-11 lxc@android.service
@@ -43,6 +53,11 @@ systemd-oomd.service
 >halium-11 iio-sensor-proxy.service
 >halium-11 bluebinder
 >halium-11 ModemManager.service
+>halium-11 sensorfwd
+>halium-11 boot-wlan.service
+>halium-11 ipa-enable.service
+>halium-11 wcnss-enable.service
+>halium-11 lmk-disable.service
 
 >google-sargo google-sargo-post-install.service
 >google-sargo lxc@android.service
@@ -52,3 +67,8 @@ systemd-oomd.service
 >google-sargo iio-sensor-proxy.service
 >google-sargo bluebinder
 >google-sargo ModemManager.service
+>google-sargo sensorfwd
+>google-sargo boot-wlan.service
+>google-sargo ipa-enable.service
+>google-sargo wcnss-enable.service
+>google-sargo lmk-disable.service
