@@ -1,5 +1,6 @@
 # Phone specific packages
 
+>halium-9 pulseaudio-hybris
 >halium-9 phoc-hybris
 >halium-9 wlroots-hybris
 >halium-9 phosh-config-hybris
@@ -11,6 +12,7 @@
 >halium-9 gnome-settings-daemon-hybris
 >halium-9 gnome-calls
 
+>halium-10 pulseaudio-hybris
 >halium-10 phoc-hybris
 >halium-10 wlroots-hybris
 >halium-10 phosh-config-hybris
@@ -22,6 +24,7 @@
 >halium-10 gnome-settings-daemon-hybris
 >halium-10 gnome-calls
 
+>halium-11 pulseaudio-hybris
 >halium-11 phoc-hybris
 >halium-11 wlroots-hybris
 >halium-11 phosh-config-hybris
@@ -33,6 +36,7 @@
 >halium-11 gnome-settings-daemon-hybris
 >halium-11 gnome-calls
 
+>google-sargo pulseaudio-hybris
 >google-sargo phoc-hybris
 >google-sargo wlroots-hybris
 >google-sargo phosh-config-hybris
@@ -97,7 +101,6 @@ papirus-maia-icon-theme
 
 # Other packages
 bluez
-pulseaudio-bluetooth
 pamac-gtk
 pamac-gnome-integration
 portfolio-file-manager
