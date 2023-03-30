@@ -85,7 +85,6 @@ dnsmasq
 wake-mobile
 
 # Gnome packages
-gnome-calculator-mobile
 gnome-clocks
 gnome-keyring
 file-roller
