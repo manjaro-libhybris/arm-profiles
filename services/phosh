@@ -12,7 +12,6 @@ systemd-oomd.service
 >pinephone pinephone-post-install.service
 >pinephone pinephonepro-post-install.service
 >pinephone pinephone-modem-scripts.pinephone-modem-setup.service
-#>pinephone anbox-container-manager.service
 #>pinephone waydroid-container.service
 >pinephone siglo.service
 #>pinephone eg25-autorestart.service
@@ -72,3 +71,59 @@ systemd-oomd.service
 >google-sargo ipa-enable.service
 >google-sargo wcnss-enable.service
 >google-sargo lmk-disable.service
+
+>xiaomi-onclite xiaomi-onclite-adaptation.service
+>xiaomi-onclite lxc@android.service
+>xiaomi-onclite android-mount.service
+>xiaomi-onclite ofono.service
+>xiaomi-onclite usb-tethering.service
+>xiaomi-onclite iio-sensor-proxy.service
+>xiaomi-onclite bluebinder
+>xiaomi-onclite ModemManager.service
+>xiaomi-onclite sensorfwd
+>xiaomi-onclite boot-wlan.service
+>xiaomi-onclite ipa-enable.service
+>xiaomi-onclite wcnss-enable.service
+>xiaomi-onclite lmk-disable.service
+
+>xiaomi-lavender xiaomi-lavender-adaptation.service
+>xiaomi-lavender lxc@android.service
+>xiaomi-lavender android-mount.service
+>xiaomi-lavender ofono.service
+>xiaomi-lavender usb-tethering.service
+>xiaomi-lavender iio-sensor-proxy.service
+>xiaomi-lavender bluebinder
+>xiaomi-lavender ModemManager.service
+>xiaomi-lavender sensorfwd
+>xiaomi-lavender boot-wlan.service
+>xiaomi-lavender ipa-enable.service
+>xiaomi-lavender wcnss-enable.service
+>xiaomi-lavender lmk-disable.service
+
+>xiaomi-dandelion xiaomi-dandelion-adaptation.service
+>xiaomi-dandelion lxc@android.service
+>xiaomi-dandelion android-mount.service
+>xiaomi-dandelion ofono.service
+>xiaomi-dandelion usb-tethering.service
+>xiaomi-dandelion iio-sensor-proxy.service
+>xiaomi-dandelion bluebinder
+>xiaomi-dandelion ModemManager.service
+>xiaomi-dandelion sensorfwd
+>xiaomi-dandelion boot-wlan.service
+>xiaomi-dandelion ipa-enable.service
+>xiaomi-dandelion wcnss-enable.service
+>xiaomi-dandelion lmk-disable.service
+
+>xiaomi-miatoll xiaomi-miatoll-adaptation.service
+>xiaomi-miatoll lxc@android.service
+>xiaomi-miatoll android-mount.service
+>xiaomi-miatoll ofono.service
+>xiaomi-miatoll usb-tethering.service
+>xiaomi-miatoll iio-sensor-proxy.service
+>xiaomi-miatoll bluebinder
+>xiaomi-miatoll ModemManager.service
+>xiaomi-miatoll sensorfwd
+>xiaomi-miatoll boot-wlan.service
+>xiaomi-miatoll ipa-enable.service
+>xiaomi-miatoll wcnss-enable.service
+>xiaomi-miatoll lmk-disable.service

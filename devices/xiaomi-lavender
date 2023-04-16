@@ -1,0 +1,48 @@
+## Maintained by Bardia Moshiri ##
+
+# Halium image
+halium-9-gsi
+
+# USB
+hybris-usb
+
+# LXC
+lxc-android
+parse-android-dynparts
+
+# Libhybris
+android-headers-28
+libhybris
+halium-wrappers
+hybris-quirks
+
+# Post-install
+xiaomi-lavender-adaptation
+
+# oFono
+libmce-glib
+libwspcodec
+ofono-hybris
+libgrilio
+ofono-ril-plugin
+libgbinder-radio
+ofono-ril-binder-plugin
+ofono2mm
+
+# Pulseaudio
+pulseaudio-modules-droid-jb2q
+pulseaudio-modules-droid-hidl
+audiosystem-passthrough
+pulseaudio-config-droid
+
+# Sensors
+sensorfw-hybris
+feedbackd-hybris
+hadess-sensorfw-proxy
+
+# Boot animation
+plymouth-hybris
+plymouth-theme-manjaro
+
+# Bluetooth
+bluebinder

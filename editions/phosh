@@ -48,6 +48,54 @@
 >google-sargo gnome-settings-daemon-hybris
 >google-sargo gnome-calls
 
+>xiaomi-onclite pulseaudio-hybris
+>xiaomi-onclite phoc-hybris
+>xiaomi-onclite wlroots-hybris
+>xiaomi-onclite phosh-config-hybris
+>xiaomi-onclite gst-plugins-bad-hybris
+>xiaomi-onclite gst-plugins-bad-libs-hybris
+>xiaomi-onclite gst-plugin-wpe-hybris
+>xiaomi-onclite callaudiod-hybris
+>xiaomi-onclite phosh-hybris
+>xiaomi-onclite gnome-settings-daemon-hybris
+>xiaomi-onclite gnome-calls
+
+>xiaomi-lavender pulseaudio-hybris
+>xiaomi-lavender phoc-hybris
+>xiaomi-lavender wlroots-hybris
+>xiaomi-lavender phosh-config-hybris
+>xiaomi-lavender gst-plugins-bad-hybris
+>xiaomi-lavender gst-plugins-bad-libs-hybris
+>xiaomi-lavender gst-plugin-wpe-hybris
+>xiaomi-lavender callaudiod-hybris
+>xiaomi-lavender phosh-hybris
+>xiaomi-lavender gnome-settings-daemon-hybris
+>xiaomi-lavender gnome-calls
+
+>xiaomi-miatoll pulseaudio-hybris
+>xiaomi-miatoll phoc-hybris
+>xiaomi-miatoll wlroots-hybris
+>xiaomi-miatoll phosh-config-hybris
+>xiaomi-miatoll gst-plugins-bad-hybris
+>xiaomi-miatoll gst-plugins-bad-libs-hybris
+>xiaomi-miatoll gst-plugin-wpe-hybris
+>xiaomi-miatoll callaudiod-hybris
+>xiaomi-miatoll phosh-hybris
+>xiaomi-miatoll gnome-settings-daemon-hybris
+>xiaomi-miatoll gnome-calls
+
+>xiaomi-dandelion pulseaudio-hybris
+>xiaomi-dandelion phoc-hybris
+>xiaomi-dandelion wlroots-hybris
+>xiaomi-dandelion phosh-config-hybris
+>xiaomi-dandelion gst-plugins-bad-hybris
+>xiaomi-dandelion gst-plugins-bad-libs-hybris
+>xiaomi-dandelion gst-plugin-wpe-hybris
+>xiaomi-dandelion callaudiod-hybris
+>xiaomi-dandelion phosh-hybris
+>xiaomi-dandelion gnome-settings-daemon-hybris
+>xiaomi-dandelion gnome-calls
+
 # Minimal packages
 glibc-locales
 sudo
