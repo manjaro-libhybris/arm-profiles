@@ -12,7 +12,7 @@ parse-android-dynparts
 
 # Libhybris
 android-headers-29
-libhybris
+libhybris-glvnd
 halium-wrappers
 hybris-quirks
 
