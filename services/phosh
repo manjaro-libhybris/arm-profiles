@@ -135,3 +135,20 @@ systemd-oomd.service
 >xiaomi-miatoll ipa-enable.service
 >xiaomi-miatoll wcnss-enable.service
 >xiaomi-miatoll lmk-disable.service
+
+>samsung-starqlte samsung-starqlte-adaptation.service
+>samsung-starqlte audiohal.service
+>samsung-starqlte flashlight-perm.service
+>samsung-starqlte enable-ipa.service
+>samsung-starqlte lxc@android.service
+>samsung-starqlte android-mount.service
+>samsung-starqlte ofono.service
+>samsung-starqlte usb-tethering.service
+>samsung-starqlte iio-sensor-proxy.service
+>samsung-starqlte bluebinder
+>samsung-starqlte ModemManager.service
+>samsung-starqlte sensorfwd
+>samsung-starqlte boot-wlan.service
+>samsung-starqlte ipa-enable.service
+>samsung-starqlte wcnss-enable.service
+>samsung-starqlte lmk-disable.service

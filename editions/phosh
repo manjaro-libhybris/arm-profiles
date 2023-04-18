@@ -96,6 +96,18 @@
 >xiaomi-dandelion gnome-settings-daemon-hybris
 >xiaomi-dandelion gnome-calls
 
+>samsung-starqlte pulseaudio-hybris
+>samsung-starqlte phoc-hybris
+>samsung-starqlte wlroots-hybris
+>samsung-starqlte phosh-config-hybris
+>samsung-starqlte gst-plugins-bad-hybris
+>samsung-starqlte gst-plugins-bad-libs-hybris
+>samsung-starqlte gst-plugin-wpe-hybris
+>samsung-starqlte callaudiod-hybris
+>samsung-starqlte phosh-hybris
+>samsung-starqlte gnome-settings-daemon-hybris
+>samsung-starqlte gnome-calls
+
 # Minimal packages
 glibc-locales
 sudo
