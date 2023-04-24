@@ -46,3 +46,7 @@ plymouth-theme-manjaro
 
 # Bluetooth
 bluebinder
+
+# Battery management
+wlr-randr
+batman
