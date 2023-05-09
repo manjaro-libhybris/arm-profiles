@@ -1,4 +1,4 @@
-## Maintained by Strit ##
+## Maintained by Bardia Moshiri ##
 
 # Minimal packages
 sudo
@@ -16,6 +16,12 @@ usbutils
 zswap-arm
 bash-completion
 irqbalance
+htop
+lxc
+yay
+networkmanager
+bluez
+dnsmasq
 
 # Minimal edition packages
 iwd
