@@ -139,7 +139,6 @@ systemd-oomd.service
 >samsung-starqlte samsung-starqlte-adaptation.service
 >samsung-starqlte audiohal.service
 >samsung-starqlte flashlight-perm.service
->samsung-starqlte enable-ipa.service
 >samsung-starqlte lxc@android.service
 >samsung-starqlte android-mount.service
 >samsung-starqlte ofono.service

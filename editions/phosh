@@ -48,6 +48,7 @@
 >halium-11 feedbackd-hybris
 >halium-11 hadess-sensorfw-proxy
 
+# google-sargo
 >google-sargo pulseaudio-hybris
 >google-sargo phosh-hybris
 >google-sargo phoc-hybris
