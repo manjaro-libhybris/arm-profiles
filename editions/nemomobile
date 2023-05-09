@@ -1,9 +1,5 @@
 ## Maintained by NeoChapay ##
 
-# Device specific packages
->pinephone nemo-device-pinephone
->pinetab nemo-device-pinetab
-
 bootsplash-theme-nemo
 
 # Minimal packages
@@ -27,7 +23,6 @@ ffmpeg-pp
 # Additional packages
 accountsservice
 lightdm
-mapplauncherd-git
 mce
 mce-plugin-libhybris-nonandroid-git
 dsme
@@ -68,10 +63,47 @@ nemo-theme-openmoko
 >halium-9 qt5-qpa-hwcomposer-plugin
 >halium-9 gst-plugins-bad-hybris
 >halium-9 gst-plugins-bad-libs-hybris
+>halium-9 gst-plugin-wpe-hybris
+
+>halium-10 qt5-qpa-hwcomposer-plugin
+>halium-10 gst-plugins-bad-hybris
+>halium-10 gst-plugins-bad-libs-hybris
+>halium-10 gst-plugin-wpe-hybris
+
+>halium-11 qt5-qpa-hwcomposer-plugin
+>halium-11 gst-plugins-bad-hybris
+>halium-11 gst-plugins-bad-libs-hybris
+>halium-11 gst-plugin-wpe-hybris
 
 >google-sargo qt5-qpa-hwcomposer-plugin
 >google-sargo gst-plugins-bad-hybris
 >google-sargo gst-plugins-bad-libs-hybris
+>google-sargo gst-plugin-wpe-hybris
+
+>xiaomi-onclite qt5-qpa-hwcomposer-plugin
+>xiaomi-onclite gst-plugins-bad-hybris
+>xiaomi-onclite gst-plugins-bad-libs-hybris
+>xiaomi-onclite gst-plugin-wpe-hybris
+
+>xiaomi-lavender qt5-qpa-hwcomposer-plugin
+>xiaomi-lavender gst-plugins-bad-hybris
+>xiaomi-lavender gst-plugins-bad-libs-hybris
+>xiaomi-lavender gst-plugin-wpe-hybris
+
+>xiaomi-miatoll qt5-qpa-hwcomposer-plugin
+>xiaomi-miatoll gst-plugins-bad-hybris
+>xiaomi-miatoll gst-plugins-bad-libs-hybris
+>xiaomi-miatoll gst-plugin-wpe-hybris
+
+>xiaomi-dandelion qt5-qpa-hwcomposer-plugin
+>xiaomi-dandelion gst-plugins-bad-hybris
+>xiaomi-dandelion gst-plugins-bad-libs-hybris
+>xiaomi-dandelion gst-plugin-wpe-hybris
+
+>samsung-starqlte qt5-qpa-hwcomposer-plugin
+>samsung-starqlte gst-plugins-bad-hybris
+>samsung-starqlte gst-plugins-bad-libs-hybris
+>samsung-starqlte gst-plugin-wpe-hybris
 
 glacier-wayland-session
 wpa_supplicant

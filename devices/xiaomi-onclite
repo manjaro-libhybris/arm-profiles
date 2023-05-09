@@ -35,11 +35,6 @@ pulseaudio-modules-droid-hidl
 audiosystem-passthrough
 pulseaudio-config-droid
 
-# Sensors
-sensorfw-hybris
-feedbackd-hybris
-hadess-sensorfw-proxy
-
 # Boot animation
 plymouth-hybris
 plymouth-theme-manjaro

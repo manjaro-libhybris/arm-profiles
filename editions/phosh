@@ -1,6 +1,8 @@
 # Phone specific packages
 
+# halium-9
 >halium-9 pulseaudio-hybris
+>halium-9 phosh-hybris
 >halium-9 phoc-hybris
 >halium-9 wlroots-hybris
 >halium-9 phosh-config-hybris
@@ -8,11 +10,15 @@
 >halium-9 gst-plugins-bad-libs-hybris
 >halium-9 gst-plugin-wpe-hybris
 >halium-9 callaudiod-hybris
->halium-9 phosh-hybris
 >halium-9 gnome-settings-daemon-hybris
 >halium-9 gnome-calls
+>halium-9 sensorfw-hybris
+>halium-9 feedbackd-hybris
+>halium-9 hadess-sensorfw-proxy
 
+# halium-10
 >halium-10 pulseaudio-hybris
+>halium-10 phosh-hybris
 >halium-10 phoc-hybris
 >halium-10 wlroots-hybris
 >halium-10 phosh-config-hybris
@@ -20,11 +26,15 @@
 >halium-10 gst-plugins-bad-libs-hybris
 >halium-10 gst-plugin-wpe-hybris
 >halium-10 callaudiod-hybris
->halium-10 phosh-hybris
 >halium-10 gnome-settings-daemon-hybris
 >halium-10 gnome-calls
+>halium-10 sensorfw-hybris
+>halium-10 feedbackd-hybris
+>halium-10 hadess-sensorfw-proxy
 
+# halium-11
 >halium-11 pulseaudio-hybris
+>halium-11 phosh-hybris
 >halium-11 phoc-hybris
 >halium-11 wlroots-hybris
 >halium-11 phosh-config-hybris
@@ -32,11 +42,14 @@
 >halium-11 gst-plugins-bad-libs-hybris
 >halium-11 gst-plugin-wpe-hybris
 >halium-11 callaudiod-hybris
->halium-11 phosh-hybris
 >halium-11 gnome-settings-daemon-hybris
 >halium-11 gnome-calls
+>halium-11 sensorfw-hybris
+>halium-11 feedbackd-hybris
+>halium-11 hadess-sensorfw-proxy
 
 >google-sargo pulseaudio-hybris
+>google-sargo phosh-hybris
 >google-sargo phoc-hybris
 >google-sargo wlroots-hybris
 >google-sargo phosh-config-hybris
@@ -44,11 +57,15 @@
 >google-sargo gst-plugins-bad-libs-hybris
 >google-sargo gst-plugin-wpe-hybris
 >google-sargo callaudiod-hybris
->google-sargo phosh-hybris
 >google-sargo gnome-settings-daemon-hybris
 >google-sargo gnome-calls
+>google-sargo sensorfw-hybris
+>google-sargo feedbackd-hybris
+>google-sargo hadess-sensorfw-proxy
 
+# onclite
 >xiaomi-onclite pulseaudio-hybris
+>xiaomi-onclite phosh-hybris
 >xiaomi-onclite phoc-hybris
 >xiaomi-onclite wlroots-hybris
 >xiaomi-onclite phosh-config-hybris
@@ -56,11 +73,15 @@
 >xiaomi-onclite gst-plugins-bad-libs-hybris
 >xiaomi-onclite gst-plugin-wpe-hybris
 >xiaomi-onclite callaudiod-hybris
->xiaomi-onclite phosh-hybris
 >xiaomi-onclite gnome-settings-daemon-hybris
 >xiaomi-onclite gnome-calls
+>xiaomi-onclite sensorfw-hybris
+>xiaomi-onclite feedbackd-hybris
+>xiaomi-onclite hadess-sensorfw-proxy
 
+# lavender
 >xiaomi-lavender pulseaudio-hybris
+>xiaomi-lavender phosh-hybris
 >xiaomi-lavender phoc-hybris
 >xiaomi-lavender wlroots-hybris
 >xiaomi-lavender phosh-config-hybris
@@ -68,11 +89,15 @@
 >xiaomi-lavender gst-plugins-bad-libs-hybris
 >xiaomi-lavender gst-plugin-wpe-hybris
 >xiaomi-lavender callaudiod-hybris
->xiaomi-lavender phosh-hybris
 >xiaomi-lavender gnome-settings-daemon-hybris
 >xiaomi-lavender gnome-calls
+>xiaomi-lavender sensorfw-hybris
+>xiaomi-lavender feedbackd-hybris
+>xiaomi-lavender hadess-sensorfw-proxy
 
+# miatoll
 >xiaomi-miatoll pulseaudio-hybris
+>xiaomi-miatoll phosh-hybris
 >xiaomi-miatoll phoc-hybris
 >xiaomi-miatoll wlroots-hybris
 >xiaomi-miatoll phosh-config-hybris
@@ -80,11 +105,15 @@
 >xiaomi-miatoll gst-plugins-bad-libs-hybris
 >xiaomi-miatoll gst-plugin-wpe-hybris
 >xiaomi-miatoll callaudiod-hybris
->xiaomi-miatoll phosh-hybris
 >xiaomi-miatoll gnome-settings-daemon-hybris
 >xiaomi-miatoll gnome-calls
+>xiaomi-miatoll sensorfw-hybris
+>xiaomi-miatoll feedbackd-hybris
+>xiaomi-miatoll hadess-sensorfw-proxy
 
+# dandelion
 >xiaomi-dandelion pulseaudio-hybris
+>xiaomi-dandelion phosh-hybris
 >xiaomi-dandelion phoc-hybris
 >xiaomi-dandelion wlroots-hybris
 >xiaomi-dandelion phosh-config-hybris
@@ -92,11 +121,15 @@
 >xiaomi-dandelion gst-plugins-bad-libs-hybris
 >xiaomi-dandelion gst-plugin-wpe-hybris
 >xiaomi-dandelion callaudiod-hybris
->xiaomi-dandelion phosh-hybris
 >xiaomi-dandelion gnome-settings-daemon-hybris
 >xiaomi-dandelion gnome-calls
+>xiaomi-dandelion sensorfw-hybris
+>xiaomi-dandelion feedbackd-hybris
+>xiaomi-dandelion hadess-sensorfw-proxy
 
+# starqlte
 >samsung-starqlte pulseaudio-hybris
+>samsung-starqlte phosh-hybris
 >samsung-starqlte phoc-hybris
 >samsung-starqlte wlroots-hybris
 >samsung-starqlte phosh-config-hybris
@@ -104,9 +137,11 @@
 >samsung-starqlte gst-plugins-bad-libs-hybris
 >samsung-starqlte gst-plugin-wpe-hybris
 >samsung-starqlte callaudiod-hybris
->samsung-starqlte phosh-hybris
 >samsung-starqlte gnome-settings-daemon-hybris
 >samsung-starqlte gnome-calls
+>samsung-starqlte sensorfw-hybris
+>samsung-starqlte feedbackd-hybris
+>samsung-starqlte hadess-sensorfw-proxy
 
 # Minimal packages
 glibc-locales
