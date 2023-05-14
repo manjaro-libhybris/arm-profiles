@@ -44,11 +44,6 @@ maliit-framework
 #maliit-keyboard-git
 lomiri-keyboard-git
 
-# Packages to be built
-#qrca
-#keysmith
-#alligator
-
 # Regular Plasma packages
 bluez
 bluedevil
@@ -63,7 +58,7 @@ manjaro-arm-wallpapers
 manjaro-icons
 
 # Wayland stuff
-xorg-server-xwayland
+xorg-xwayland
 
 # Indicators
 ayatana-indicator-session-git
@@ -153,7 +148,7 @@ lomiri-gallery-app-git
 unav
 
 # GTK3
-gtk3-mobile # use mobile version to scale properly
+gtk3-mobile
 
 #temp packages
 imagemagick

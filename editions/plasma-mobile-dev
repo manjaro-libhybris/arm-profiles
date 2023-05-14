@@ -127,7 +127,7 @@ manjaro-icons
 # Wayland stuff
 kwayland
 kwayland-integration
-xorg-server-xwayland
+xorg-xwayland
 kwayland-server
 pipewire-media-session
 

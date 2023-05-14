@@ -201,7 +201,7 @@ portfolio-file-manager
 iio-sensor-proxy
 networkmanager
 polkit
-xorg-server-xwayland
+xorg-xwayland
 firefox
 qt5-wayland
 noto-fonts-emoji

@@ -180,7 +180,7 @@ xf86-input-void
 ## Xorg Server and Graphics
 xdg-user-dirs
 xorg-server
-xorg-server-xwayland
+xorg-xwayland
 numlockx
 xorg-twm
 xorg-xinit
