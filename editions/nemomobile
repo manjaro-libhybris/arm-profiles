@@ -52,7 +52,6 @@ nemo-theme-openmoko
 xdg-user-dirs
 mesa
 alsa-utils
-pulseaudio-bluetooth
 wget
 vim
 nano
