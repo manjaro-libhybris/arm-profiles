@@ -24,6 +24,7 @@ dsme
 swi-prolog7
 ohm
 ohm-plugin-ruleengine
+libdbusaccess
 
 # Main glacier packages
 lipstick-glacier-home

@@ -1,10 +1,6 @@
 ## Maintained by Furkan and Philip ##
-
-# Phone specific packages
->pinephone ofono
->pinephone ofonoctl
->pinephone libqofono-qt5
->pinephone hfd-service-git
+ofono
+ofonoctl
 
 qmenumodel-git
 sensorfw-git
@@ -106,7 +102,7 @@ url-dispatcher-git
 persistent-cache-cpp-git
 thumbnailer-git
 qt5-pim-git
-qt5-systems-git
+#qt5-systems-git
 humanity-icon-theme
 ubuntu-themes
 ubuntu-ui-toolkit-git
@@ -126,8 +122,8 @@ system-settings-git
 qdjango-git
 libusermetrics-git
 gsettings-ubuntu-touch-schemas-git
-biometryd
-unity-notifications
+#biometryd
+#unity-notifications
 telephony-service
 unity8-git
 lomiri-sounds
