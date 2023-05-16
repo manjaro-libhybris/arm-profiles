@@ -4,6 +4,9 @@ bluetooth.service
 zswap-arm.service
 hfd-service.service
 mce.service
+connman.service
+ead.service
+connman-vpn.service
 
 >halium-9 ofono.service
 >halium-9 ofonoctl.service
