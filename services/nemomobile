@@ -3,13 +3,11 @@ NetworkManager.service
 bluetooth.service
 tlp.service
 zswap-arm.service
-bootsplash-hide-when-booted.service
-bootsplash-show-on-shutdown.service
 hfd-service.service
-connman.service
 mce.service
 dsme.service
 lightdm.service
+
 >halium-9 ofono.service
 >halium-9 ofonoctl.service
 >halium-9 halium9-post-install.service
