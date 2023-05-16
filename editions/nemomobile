@@ -52,6 +52,7 @@ nemo-qml-plugin-accounts
 maliit-nemo-keyboard
 nemo-qml-plugin-signon
 pulseaudio-modules-nemo
+pulseaudio-policy-enforcement
 
 # Theming
 bootsplash-theme-nemo
