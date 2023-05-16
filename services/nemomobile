@@ -4,7 +4,6 @@ bluetooth.service
 zswap-arm.service
 hfd-service.service
 mce.service
-dsme.service
 lightdm.service
 
 >halium-9 ofono.service
@@ -17,6 +16,7 @@ lightdm.service
 >halium-9 ipa-enable.service
 >halium-9 wcnss-enable.service
 >halium-9 lmk-disable.service
+>halium-9 nemomobile.service
 
 >halium-10 ofono.service
 >halium-10 ofonoctl.service
@@ -28,6 +28,7 @@ lightdm.service
 >halium-10 ipa-enable.service
 >halium-10 wcnss-enable.service
 >halium-10 lmk-disable.service
+>halium-10 nemomobile.service
 
 >halium-11 ofono.service
 >halium-11 ofonoctl.service
@@ -39,6 +40,7 @@ lightdm.service
 >halium-11 ipa-enable.service
 >halium-11 wcnss-enable.service
 >halium-11 lmk-disable.service
+>halium-11 nemomobile.service
 
 >google-sargo google-sargo-post-install.service
 >google-sargo lxc@android.service
@@ -50,6 +52,7 @@ lightdm.service
 >google-sargo ipa-enable.service
 >google-sargo wcnss-enable.service
 >google-sargo lmk-disable.service
+>google-sargo nemomobile.service
 
 >xiaomi-onclite xiaomi-onclite-adaptation.service
 >xiaomi-onclite brightnessperm.service
@@ -63,6 +66,7 @@ lightdm.service
 >xiaomi-onclite wcnss-enable.service
 >xiaomi-onclite lmk-disable.service
 >xiaomi-onclite bluebinder.service
+>xiaomi-onclite nemomobile.service
 
 >xiaomi-lavender xiaomi-lavender-adaptation.service
 >xiaomi-lavender brightness.service
@@ -76,6 +80,7 @@ lightdm.service
 >xiaomi-lavender wcnss-enable.service
 >xiaomi-lavender lmk-disable.service
 >xiaomi-lavender bluebinder.service
+>xiaomi-lavender nemomobile.service
 
 >xiaomi-dandelion xiaomi-dandelion-adaptation.service
 >xiaomi-dandelion ssh-fix.service
@@ -90,6 +95,7 @@ lightdm.service
 >xiaomi-dandelion wcnss-enable.service
 >xiaomi-dandelion lmk-disable.service
 >xiaomi-dandelion bluebinder.service
+>xiaomi-dandelion nemomobile.service
 
 >xiaomi-miatoll xiaomi-miatoll-adaptation.service
 >xiaomi-miatoll miatoll-postboot.service
@@ -104,6 +110,7 @@ lightdm.service
 >xiaomi-miatoll wcnss-enable.service
 >xiaomi-miatoll lmk-disable.service
 >xiaomi-miatoll bluebinder.service
+>xiaomi-miatoll nemomobile.service
 
 >samsung-starqlte samsung-starqlte-adaptation.service
 >samsung-starqlte audiohal.service
@@ -118,3 +125,4 @@ lightdm.service
 >samsung-starqlte wcnss-enable.service
 >samsung-starqlte lmk-disable.service
 >samsung-starqlte bluebinder.service
+>samsung-starqlte nemomobile.service
