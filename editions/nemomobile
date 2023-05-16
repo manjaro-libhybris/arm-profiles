@@ -51,6 +51,7 @@ glacier-alarm-listener
 nemo-qml-plugin-accounts
 maliit-nemo-keyboard
 nemo-qml-plugin-signon
+pulseaudio-modules-nemo
 
 # Theming
 bootsplash-theme-nemo
