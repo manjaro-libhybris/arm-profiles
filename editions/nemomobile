@@ -44,6 +44,13 @@ glacier-dialer
 glacier-wayland-session
 fingerterm
 qt5-quickcontrols-nemo-examples
+glacier-weather
+glacier-calendar
+glacier-alarmclock
+glacier-alarm-listener
+nemo-qml-plugin-accounts
+maliit-nemo-keyboard
+nemo-qml-plugin-signon
 
 # Theming
 bootsplash-theme-nemo
@@ -58,7 +65,6 @@ vim
 nano
 htop
 tmux
-maliit-nemo-keyboard
 wpa_supplicant
 ofonoctl
 
