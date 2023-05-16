@@ -1,7 +1,6 @@
 sshd.service 
 NetworkManager.service
 bluetooth.service
-tlp.service
 zswap-arm.service
 hfd-service.service
 mce.service
