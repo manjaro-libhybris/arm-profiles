@@ -1,9 +1,7 @@
-## Maintained by Furkan and Philip ##
 ofono
 ofonoctl
 
 qmenumodel-git
-sensorfw-git
 
 # Qt5 ES2 (can be enabled)
 qt5-es2-base
@@ -37,17 +35,6 @@ telepathy-mission-control
 telepathy-ofono
 qt5-wayland
 maliit-framework
-#maliit-keyboard-git
-lomiri-keyboard-git
-
-# Regular Plasma packages
-bluez
-bluedevil
-
-# Phosh packages
-#gnome-software-mobile
-flashlight
-megapixels
 
 # Theming
 manjaro-arm-wallpapers
@@ -71,12 +58,7 @@ lomiri-indicator-transfer-git
 lomiri-indicator-location-git
 lomiri-indicator-bluetooth-git
 
-# GPS
-location-service-git
-gpsd
-
 # Other
-tlp
 alsa-utils
 wget
 xdg-user-dirs
@@ -102,7 +84,6 @@ url-dispatcher-git
 persistent-cache-cpp-git
 thumbnailer-git
 qt5-pim-git
-#qt5-systems-git
 humanity-icon-theme
 ubuntu-themes
 ubuntu-ui-toolkit-git
@@ -122,12 +103,9 @@ system-settings-git
 qdjango-git
 libusermetrics-git
 gsettings-ubuntu-touch-schemas-git
-#biometryd
-#unity-notifications
 telephony-service
 unity8-git
 lomiri-sounds
-inputcontext-gtk
 
 # Lomiri Apps
 dialer-app-git
