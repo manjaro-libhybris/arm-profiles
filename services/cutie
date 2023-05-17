@@ -1,9 +1,6 @@
 sshd.service 
 bluetooth.service
-tlp.service
 zswap-arm.service
-bootsplash-hide-when-booted.service
-bootsplash-show-on-shutdown.service
 hfd-service.service
 mce.service
 dsme.service
@@ -12,22 +9,13 @@ ohmd.service
 connman.service
 usb-tethering.service
 sensorfwd.service
->pinephone eg25-manager.service
->pinephone pinephone-post-install.service
->pinephone ofono.service
->pinephone ofonoctl.service
->pinephone pinephone-modem-scripts.pinephone-modem-setup.service
+
 >halium-9 ofono.service
 >halium-9 ofonoctl.service
 >halium-9 halium9-post-install.service
 >halium-9 lxc@android.service
 >halium-9 android-mount.service
->volla-yggdrasil ofono.service
->volla-yggdrasil ofonoctl.service
->volla-yggdrasil volla-yggdrasil-post-install.service
->volla-yggdrasil lxc@android.service
->volla-yggdrasil android-mount.service
->volla-yggdrasil wifi-fix.service
+
 >google-sargo ofono.service
 >google-sargo ofonoctl.service
 >google-sargo google-sargo-post-install.service

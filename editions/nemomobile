@@ -69,6 +69,7 @@ htop
 tmux
 wpa_supplicant
 ofonoctl
+haveged
 
 >halium-9 qt5-qpa-hwcomposer-plugin
 >halium-9 gst-plugins-bad-hybris

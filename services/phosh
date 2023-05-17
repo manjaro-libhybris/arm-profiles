@@ -4,8 +4,6 @@ NetworkManager.service
 phosh.service
 bluetooth.service
 zswap-arm.service
-bootsplash-hide-when-booted.service
-bootsplash-show-on-shutdown.service
 systemd-oomd.service
 
 >halium-9 halium9-post-install.service
