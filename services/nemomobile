@@ -23,7 +23,7 @@ haveged.service
 
 >halium-10 ofono.service
 >halium-10 ofonoctl.service
->halium-10 halium9-post-install.service
+>halium-10 halium10-post-install.service
 >halium-10 lxc@android.service
 >halium-10 android-mount.service
 >halium-10 usb-tethering.service
@@ -35,7 +35,7 @@ haveged.service
 
 >halium-11 ofono.service
 >halium-11 ofonoctl.service
->halium-11 halium9-post-install.service
+>halium-11 halium11-post-install.service
 >halium-11 lxc@android.service
 >halium-11 android-mount.service
 >halium-11 usb-tethering.service
