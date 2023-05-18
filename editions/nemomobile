@@ -54,6 +54,7 @@ nemo-qml-plugin-signon
 pulseaudio-modules-nemo
 pulseaudio-policy-enforcement
 ngfd-plugin-native-vibrator
+maliit-keyboard
 
 # Theming
 bootsplash-theme-nemo
