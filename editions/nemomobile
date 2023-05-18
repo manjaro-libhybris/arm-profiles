@@ -41,6 +41,7 @@ glacier-mail
 glacier-testtool
 glacier-packagemanager
 glacier-dialer
+glacier-pinquery
 glacier-wayland-session
 fingerterm
 qt5-quickcontrols-nemo-examples
