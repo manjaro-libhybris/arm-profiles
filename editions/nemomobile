@@ -55,6 +55,7 @@ pulseaudio-modules-nemo
 pulseaudio-policy-enforcement
 ngfd-plugin-native-vibrator
 maliit-keyboard
+inputcontext-gtk
 
 # Theming
 bootsplash-theme-nemo
