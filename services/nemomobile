@@ -9,6 +9,7 @@ iwd.service
 zswap-arm.service
 systemd-oomd.service
 nemodebugmode.service
+ohmd.service
 
 >halium-9 ofono.service
 >halium-9 ofonoctl.service

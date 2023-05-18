@@ -22,6 +22,7 @@ man-pages
 man-db
 ntfs-3g
 zswap-arm
+strace
 
 # PM Packages
 hfd-service-git
@@ -127,3 +128,4 @@ gtk3-mobile
 #temp packages
 imagemagick
 pamac-cli
+

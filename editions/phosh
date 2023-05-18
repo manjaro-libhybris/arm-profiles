@@ -1,4 +1,4 @@
-# Phone specific packages
+## Maintained by Bardia Moshiri ##
 
 # halium-9
 >halium-9 pulseaudio-hybris
@@ -209,3 +209,4 @@ noto-fonts-cjk
 postmarketos-tweaks-phosh
 phosh-mobile-settings
 mobile-config-firefox
+strace

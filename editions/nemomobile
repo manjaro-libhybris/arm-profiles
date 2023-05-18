@@ -1,4 +1,4 @@
-# Minimal packages
+## Maintained by Bardia Moshiri ##
 sudo
 parted
 openssh
@@ -53,6 +53,7 @@ maliit-nemo-keyboard
 nemo-qml-plugin-signon
 pulseaudio-modules-nemo
 pulseaudio-policy-enforcement
+ngfd-plugin-native-vibrator
 
 # Theming
 bootsplash-theme-nemo
@@ -71,6 +72,7 @@ wpa_supplicant
 ofonoctl
 haveged
 networkmanager
+strace
 
 >halium-9 qt5-qpa-hwcomposer-plugin
 >halium-9 gst-plugins-bad-hybris
