@@ -74,7 +74,6 @@ tmux
 wpa_supplicant
 ofonoctl
 haveged
-networkmanager
 strace
 
 >halium-9 qt5-qpa-hwcomposer-plugin
