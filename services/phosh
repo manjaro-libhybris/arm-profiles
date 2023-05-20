@@ -20,6 +20,7 @@ systemd-oomd.service
 >halium-9 wcnss-enable.service
 >halium-9 lmk-disable.service
 >halium-9 batman.service
+>halium-9 gnome-session-unfailed.service
 
 >halium-10 halium10-post-install.service
 >halium-10 lxc@android.service
@@ -35,6 +36,7 @@ systemd-oomd.service
 >halium-10 wcnss-enable.service
 >halium-10 lmk-disable.service
 >halium-10 batman.service
+>halium-10 gnome-session-unfailed.service
 
 >halium-11 halium11-post-install.service
 >halium-11 lxc@android.service
@@ -50,6 +52,7 @@ systemd-oomd.service
 >halium-11 wcnss-enable.service
 >halium-11 lmk-disable.service
 >halium-11 batman.service
+>halium-11 gnome-session-unfailed.service
 
 >google-sargo google-sargo-post-install.service
 >google-sargo lxc@android.service
@@ -65,6 +68,7 @@ systemd-oomd.service
 >google-sargo wcnss-enable.service
 >google-sargo lmk-disable.service
 >google-sargo batman.service
+>google-sargo gnome-session-unfailed.service
 
 >xiaomi-onclite xiaomi-onclite-adaptation.service
 >xiaomi-onclite brightnessperm.service
@@ -81,6 +85,7 @@ systemd-oomd.service
 >xiaomi-onclite wcnss-enable.service
 >xiaomi-onclite lmk-disable.service
 >xiaomi-onclite batman.service
+>xiaomi-onclite gnome-session-unfailed.service
 
 >xiaomi-lavender xiaomi-lavender-adaptation.service
 >xiaomi-lavender brightness.service
@@ -97,6 +102,7 @@ systemd-oomd.service
 >xiaomi-lavender wcnss-enable.service
 >xiaomi-lavender lmk-disable.service
 >xiaomi-lavender batman.service
+>xiaomi-lavender gnome-session-unfailed.service
 
 >xiaomi-dandelion xiaomi-dandelion-adaptation.service
 >xiaomi-dandelion gnome-session-unfailed.service
@@ -116,6 +122,7 @@ systemd-oomd.service
 >xiaomi-dandelion wcnss-enable.service
 >xiaomi-dandelion lmk-disable.service
 >xiaomi-dandelion batman.service
+>xiaomi-dandelion gnome-session-unfailed.service
 
 >xiaomi-miatoll xiaomi-miatoll-adaptation.service
 >xiaomi-miatoll miatoll-postboot.service
@@ -133,6 +140,7 @@ systemd-oomd.service
 >xiaomi-miatoll wcnss-enable.service
 >xiaomi-miatoll lmk-disable.service
 >xiaomi-miatoll batman.service
+>xiaomi-miatoll gnome-session-unfailed.service
 
 >samsung-starqlte samsung-starqlte-adaptation.service
 >samsung-starqlte audiohal.service
@@ -150,3 +158,4 @@ systemd-oomd.service
 >samsung-starqlte wcnss-enable.service
 >samsung-starqlte lmk-disable.service
 >samsung-starqlte batman.service
+>samsung-starqlte gnome-session-unfailed.service
