@@ -34,7 +34,6 @@ ayatana-ido-git
 ayatana-indicator-a11y-git
 ayatana-indicator-bluetooth-git
 ayatana-indicator-datetime-git
-ayatana-indicator-git
 ayatana-indicator-keyboard-git
 ayatana-indicator-messages-git
 ayatana-indicator-notifications-git
@@ -64,7 +63,7 @@ cmake-extras-lomiri
 content-hub-git
 dbus-cpp
 dbus-test-runner
-deviceinfo
+deviceinfo-git
 geonames-git
 gmenuharness-bzr
 gsettings-qt-git
@@ -87,7 +86,7 @@ lomiri-indicator-transfer-buteo-git
 lomiri-indicator-transfer-git
 lomiri-keyboard-git
 lomiri-mobile-session
-lomiri-notification-git
+lomiri-notifications-git
 lomiri-schemas-git
 lomiri-settings-components-git
 lomiri-sounds
