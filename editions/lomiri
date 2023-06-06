@@ -106,7 +106,7 @@ properties-cpp
 protobuf-lomiri
 python-launchpadlib
 python-lazr-uri
-python-lzr-restfulclient
+python-lazr-restfulclient
 python-wadllib
 qdjango-git
 qmenumodel-git
