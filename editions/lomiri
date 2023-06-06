@@ -1,8 +1,6 @@
 ofono
 ofonoctl
 
-qmenumodel-git
-
 # Qt5 ES2 (can be enabled)
 qt5-es2-base
 qt5-es2-declarative
@@ -24,19 +22,6 @@ ntfs-3g
 zswap-arm
 strace
 
-# PM Packages
-hfd-service-git
-lomiri-mobile-session
-lightdm-lomiri
-egl-wayland
-xdg-utils
-desktop-file-utils
-telephony-service-git
-telepathy-mission-control
-telepathy-ofono
-qt5-wayland
-maliit-framework
-
 # Theming
 manjaro-arm-wallpapers
 manjaro-icons
@@ -45,19 +30,24 @@ manjaro-icons
 xorg-xwayland
 
 # Indicators
-ayatana-indicator-session-git
-ayatana-indicator-display-git
-ayatana-indicator-notifications-git
-ayatana-indicator-messages-git
-ayatana-indicator-sound-git
-ayatana-indicator-power-git
+ayatana-ido-git
+ayatana-indicator-a11y-git
+ayatana-indicator-bluetooth-git
 ayatana-indicator-datetime-git
-libaccounts-glib # dep of datetime
+ayatana-indicator-git
+ayatana-indicator-keyboard-git
+ayatana-indicator-messages-git
+ayatana-indicator-notifications-git
 ayatana-indicator-power-git
+ayatana-indicator-printers-git
+ayatana-indicator-session-git
+ayatana-indicator-sound-git
 indicator-network-git
-lomiri-indicator-transfer-git
-lomiri-indicator-location-git
-lomiri-indicator-bluetooth-git
+libayatana-appindicator-git
+libaccounts-glib
+libayatana-common-git
+libayatana-indicator-git
+libdbusmenu-git
 
 # Other
 alsa-utils
@@ -67,60 +57,84 @@ debianutils
 flatpak
 iio-sensor-proxy
 
-# Lomiri
-repowerd-git
-unity-system-compositor-git
-lcov
-mir
-cmake-extras-git
-libqtdbustest-git
-unity-api-git
-ubuntu-download-manager-git
-properties-cpp
-ubuntu-app-launch-git
-ttf-ubuntu-font-family
-process-cpp
-zmqpp
-url-dispatcher-git
-persistent-cache-cpp-git
-thumbnailer-git
-qt5-pim-git
-humanity-icon-theme
-ubuntu-themes
-ubuntu-ui-toolkit-git
-gsettings-qt-git
-content-hub-git
-qtmir-git
-settings-components-git
-history-service-git
-dbus-cpp
-trust-store-git
+biometryd-git
+buteo-syncfw-qml-git
 click-git
-accountsservice-ubuntu
+cmake-extras-lomiri
+content-hub-git
+dbus-cpp
+dbus-test-runner
+deviceinfo
 geonames-git
-qmenumodel-git
-libqofono-qt5
-system-settings-git
-qdjango-git
+gmenuharness-bzr
+gsettings-qt-git
+gtest-lomiri
+hfd-service-git
+history-service-git
+humanity-icon-theme
+libphonenumber-lomiri
+libqtdbusmock-git
+libqtdbustest-git
 libusermetrics-git
-gsettings-ubuntu-touch-schemas-git
-telephony-service
-unity8-git
+lightdm-lomiri
+lomiri-action-api-git
+lomiri-api-git
+lomiri-app-launch-git
+lomiri-download-manager-git
+lomiri-git
+lomiri-indicator-location-git
+lomiri-indicator-transfer-buteo-git
+lomiri-indicator-transfer-git
+lomiri-keyboard-git
+lomiri-mobile-session
+lomiri-notification-git
+lomiri-schemas-git
+lomiri-settings-components-git
 lomiri-sounds
+lomiri-system-compositor-git
+lomiri-system-settings-git
+lomiri-thumbnailer-git
+lomiri-ui-extras-git
+lomiri-ui-toolkit-git
+mediascanner2-git
+mir
+mir-android2-platform-git
+net-cpp-git
+perl-rpc-xml
+persistent-cache-cpp-git
+process-cpp
+properties-cpp
+protobuf-lomiri
+python-launchpadlib
+python-lazr-uri
+python-lzr-restfulclient
+python-wadllib
+qdjango-git
+qmenumodel-git
+qqc2-suru-style-git
+qt5-pim-git
+qtmir-git
+qtunity-appmenutheme-git
+suru-icon-theme-git
+telephony-service-git
+u1db-qt-git
+url-dispatcher-git
+wlcs-lomiri
+zmqpp
 
 # Lomiri Apps
-dialer-app-git
+#dialer-app-git
 #camera-app-git
-messaging-app-git
-lomiri-terminal-app-git
-lomiri-filemanager-app-git
-morph-browser-git
-lomiri-clock-app-git
-lomiri-music-app-git
-lomiri-docviewer-app-git
-lomiri-calculator-app-git
-lomiri-gallery-app-git
-unav
+#messaging-app-git
+#lomiri-terminal-app-git
+#lomiri-filemanager-app-git
+#morph-browser-git
+#lomiri-clock-app-git
+#lomiri-music-app-git
+#lomiri-docviewer-app-git
+#lomiri-calculator-app-git
+#lomiri-gallery-app-git
+#unav
 
 # GTK3
 gtk3-mobile
@@ -128,4 +142,3 @@ gtk3-mobile
 #temp packages
 imagemagick
 pamac-cli
-
