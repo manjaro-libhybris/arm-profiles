@@ -1,7 +1,6 @@
-ofono
-ofonoctl
+## Maintained by Bardia Moshiri ##
 
-# Qt5 ES2 (can be enabled)
+# Qt5 ES2
 qt5-es2-base
 qt5-es2-declarative
 qt5-es2-multimedia
@@ -55,7 +54,9 @@ xdg-user-dirs
 debianutils
 flatpak
 iio-sensor-proxy
+gtk3-mobile
 
+# Lomiri
 biometryd-git
 buteo-syncfw-qml-git
 click-git
@@ -71,6 +72,7 @@ gtest-lomiri
 hfd-service-git
 history-service-git
 humanity-icon-theme
+libqofono-qt5
 libphonenumber-lomiri
 libqtdbusmock-git
 libqtdbustest-git
@@ -134,10 +136,3 @@ zmqpp
 #lomiri-calculator-app-git
 #lomiri-gallery-app-git
 #unav
-
-# GTK3
-gtk3-mobile
-
-#temp packages
-imagemagick
-pamac-cli

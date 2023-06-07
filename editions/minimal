@@ -25,5 +25,4 @@ dnsmasq
 strace
 
 # Minimal edition packages
-iwd
 manjaro-hotfixes
