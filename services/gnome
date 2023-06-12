@@ -1,8 +1,169 @@
 sshd.service
 NetworkManager.service
-gdm.service
 bluetooth.service
-tlp.service
 zswap-arm.service
 systemd-oomd.service
 irqbalance.service
+
+>halium-9 halium9-post-install.service
+>halium-9 lxc@android.service
+>halium-9 android-mount.service
+>halium-9 ofono.service
+>halium-9 usb-tethering.service
+>halium-9 iio-sensor-proxy.service
+>halium-9 bluebinder.service
+>halium-9 ModemManager.service
+>halium-9 sensorfwd.service
+>halium-9 boot-wlan.service
+>halium-9 ipa-enable.service
+>halium-9 wcnss-enable.service
+>halium-9 lmk-disable.service
+>halium-9 X11.service
+>halium-9 gnome-shell.service
+
+>halium-10 halium10-post-install.service
+>halium-10 lxc@android.service
+>halium-10 android-mount.service
+>halium-10 ofono.service
+>halium-10 usb-tethering.service
+>halium-10 iio-sensor-proxy.service
+>halium-10 bluebinder.service
+>halium-10 ModemManager.service
+>halium-10 sensorfwd.service
+>halium-10 boot-wlan.service
+>halium-10 ipa-enable.service
+>halium-10 wcnss-enable.service
+>halium-10 lmk-disable.service
+>halium-10 batman.service
+>halium-10 X11.service
+>halium-10 gnome-shell.service
+
+>halium-11 halium11-post-install.service
+>halium-11 lxc@android.service
+>halium-11 android-mount.service
+>halium-11 ofono.service
+>halium-11 usb-tethering.service
+>halium-11 iio-sensor-proxy.service
+>halium-11 bluebinder.service
+>halium-11 ModemManager.service
+>halium-11 sensorfwd.service
+>halium-11 boot-wlan.service
+>halium-11 ipa-enable.service
+>halium-11 wcnss-enable.service
+>halium-11 lmk-disable.service
+>halium-11 batman.service
+>halium-11 X11.service
+>halium-11 gnome-shell.service
+
+>google-sargo google-sargo-post-install.service
+>google-sargo lxc@android.service
+>google-sargo android-mount.service
+>google-sargo ofono.service
+>google-sargo usb-tethering.service
+>google-sargo iio-sensor-proxy.service
+>google-sargo bluebinder.service
+>google-sargo ModemManager.service
+>google-sargo sensorfwd.service
+>google-sargo boot-wlan.service
+>google-sargo ipa-enable.service
+>google-sargo wcnss-enable.service
+>google-sargo lmk-disable.service
+>google-sargo batman.service
+>google-sargo X11.service
+>google-sargo gnome-shell.service
+
+>xiaomi-onclite xiaomi-onclite-adaptation.service
+>xiaomi-onclite brightnessperm.service
+>xiaomi-onclite lxc@android.service
+>xiaomi-onclite android-mount.service
+>xiaomi-onclite ofono.service
+>xiaomi-onclite usb-tethering.service
+>xiaomi-onclite iio-sensor-proxy.service
+>xiaomi-onclite bluebinder.service
+>xiaomi-onclite ModemManager.service
+>xiaomi-onclite sensorfwd.service
+>xiaomi-onclite boot-wlan.service
+>xiaomi-onclite ipa-enable.service
+>xiaomi-onclite wcnss-enable.service
+>xiaomi-onclite lmk-disable.service
+>xiaomi-onclite batman.service
+>xiaomi-onclite X11.service
+>xiaomi-onclite gnome-shell.service
+
+>xiaomi-lavender xiaomi-lavender-adaptation.service
+>xiaomi-lavender brightness.service
+>xiaomi-lavender lxc@android.service
+>xiaomi-lavender android-mount.service
+>xiaomi-lavender ofono.service
+>xiaomi-lavender usb-tethering.service
+>xiaomi-lavender iio-sensor-proxy.service
+>xiaomi-lavender bluebinder.service
+>xiaomi-lavender ModemManager.service
+>xiaomi-lavender sensorfwd.service
+>xiaomi-lavender boot-wlan.service
+>xiaomi-lavender ipa-enable.service
+>xiaomi-lavender wcnss-enable.service
+>xiaomi-lavender lmk-disable.service
+>xiaomi-lavender batman.service
+>xiaomi-lavender X11.service
+>xiaomi-lavender gnome-shell.service
+
+>xiaomi-dandelion xiaomi-dandelion-adaptation.service
+>xiaomi-dandelion gnome-session-unfailed.service
+>xiaomi-dandelion ssh-fix.service
+>xiaomi-dandelion pbhelper.service
+>xiaomi-dandelion brightness.service
+>xiaomi-dandelion lxc@android.service
+>xiaomi-dandelion android-mount.service
+>xiaomi-dandelion ofono.service
+>xiaomi-dandelion usb-tethering.service
+>xiaomi-dandelion iio-sensor-proxy.service
+>xiaomi-dandelion bluebinder.service
+>xiaomi-dandelion ModemManager.service
+>xiaomi-dandelion sensorfwd.service
+>xiaomi-dandelion boot-wlan.service
+>xiaomi-dandelion ipa-enable.service
+>xiaomi-dandelion wcnss-enable.service
+>xiaomi-dandelion lmk-disable.service
+>xiaomi-dandelion batman.service
+>xiaomi-dandelion gnome-session-unfailed.service
+>xiaomi-dandelion X11.service
+>xiaomi-dandelion gnome-shell.service
+
+>xiaomi-miatoll xiaomi-miatoll-adaptation.service
+>xiaomi-miatoll miatoll-postboot.service
+>xiaomi-miatoll enable-ipa.service
+>xiaomi-miatoll lxc@android.service
+>xiaomi-miatoll android-mount.service
+>xiaomi-miatoll ofono.service
+>xiaomi-miatoll usb-tethering.service
+>xiaomi-miatoll iio-sensor-proxy.service
+>xiaomi-miatoll bluebinder.service
+>xiaomi-miatoll ModemManager.service
+>xiaomi-miatoll sensorfwd.service
+>xiaomi-miatoll boot-wlan.service
+>xiaomi-miatoll ipa-enable.service
+>xiaomi-miatoll wcnss-enable.service
+>xiaomi-miatoll lmk-disable.service
+>xiaomi-miatoll batman.service
+>xiaomi-miatoll X11.service
+>xiaomi-miatoll gnome-shell.service
+
+>samsung-starqlte samsung-starqlte-adaptation.service
+>samsung-starqlte audiohal.service
+>samsung-starqlte flashlight-perm.service
+>samsung-starqlte lxc@android.service
+>samsung-starqlte android-mount.service
+>samsung-starqlte ofono.service
+>samsung-starqlte usb-tethering.service
+>samsung-starqlte iio-sensor-proxy.service
+>samsung-starqlte bluebinder.service
+>samsung-starqlte ModemManager.service
+>samsung-starqlte sensorfwd.service
+>samsung-starqlte boot-wlan.service
+>samsung-starqlte ipa-enable.service
+>samsung-starqlte wcnss-enable.service
+>samsung-starqlte lmk-disable.service
+>samsung-starqlte batman.service
+>xiaomi-miatoll X11.service
+>xiaomi-miatoll gnome-shell.service

@@ -1,4 +1,121 @@
-## Maintained by Appelgriebsch ##
+## Maintained by Bardia Moshiri ##
+
+>halium-9 pulseaudio-hybris
+>halium-9 wlroots-hybris
+>halium-9 gnomeshell-config-hybris
+>halium-9 gst-plugins-bad-hybris
+>halium-9 gst-plugins-bad-libs-hybris
+>halium-9 gst-plugin-wpe-hybris
+>halium-9 gnome-settings-daemon-hybris
+>halium-9 sensorfw-hybris
+>halium-9 hadess-sensorfw-proxy
+>halium-9 glamor-hybris
+>halium-9 drihybris
+>halium-9 xf86-video-hwcomposer
+
+>halium-10 pulseaudio-hybris
+>halium-10 wlroots-hybris
+>halium-10 gnomeshell-config-hybris
+>halium-10 gst-plugins-bad-hybris
+>halium-10 gst-plugins-bad-libs-hybris
+>halium-10 gst-plugin-wpe-hybris
+>halium-10 gnome-settings-daemon-hybris
+>halium-10 sensorfw-hybris
+>halium-10 hadess-sensorfw-proxy
+>halium-10 glamor-hybris
+>halium-10 drihybris
+>halium-10 xf86-video-hwcomposer
+
+>halium-11 pulseaudio-hybris
+>halium-11 wlroots-hybris
+>halium-11 gnomeshell-config-hybris
+>halium-11 gst-plugins-bad-hybris
+>halium-11 gst-plugins-bad-libs-hybris
+>halium-11 gst-plugin-wpe-hybris
+>halium-11 gnome-settings-daemon-hybris
+>halium-11 sensorfw-hybris
+>halium-11 hadess-sensorfw-proxy
+>halium-11 glamor-hybris
+>halium-11 drihybris
+>halium-11 xf86-video-hwcomposer
+
+>google-sargo pulseaudio-hybris
+>google-sargo wlroots-hybris
+>google-sargo gnomeshell-config-hybris
+>google-sargo gst-plugins-bad-hybris
+>google-sargo gst-plugins-bad-libs-hybris
+>google-sargo gst-plugin-wpe-hybris
+>google-sargo gnome-settings-daemon-hybris
+>google-sargo sensorfw-hybris
+>google-sargo hadess-sensorfw-proxy
+>google-sargo glamor-hybris
+>google-sargo drihybris
+>google-sargo xf86-video-hwcomposer
+
+>xiaomi-onclite pulseaudio-hybris
+>xiaomi-onclite wlroots-hybris
+>xiaomi-onclite gnomeshell-config-hybris
+>xiaomi-onclite gst-plugins-bad-hybris
+>xiaomi-onclite gst-plugins-bad-libs-hybris
+>xiaomi-onclite gst-plugin-wpe-hybris
+>xiaomi-onclite gnome-settings-daemon-hybris
+>xiaomi-onclite sensorfw-hybris
+>xiaomi-onclite hadess-sensorfw-proxy
+>xiaomi-onclite glamor-hybris
+>xiaomi-onclite drihybris
+>xiaomi-onclite xf86-video-hwcomposer
+
+>xiaomi-lavender pulseaudio-hybris
+>xiaomi-lavender wlroots-hybris
+>xiaomi-lavender gnomeshell-config-hybris
+>xiaomi-lavender gst-plugins-bad-hybris
+>xiaomi-lavender gst-plugins-bad-libs-hybris
+>xiaomi-lavender gst-plugin-wpe-hybris
+>xiaomi-lavender gnome-settings-daemon-hybris
+>xiaomi-lavender sensorfw-hybris
+>xiaomi-lavender hadess-sensorfw-proxy
+>xiaomi-lavender glamor-hybris
+>xiaomi-lavender drihybris
+>xiaomi-lavender xf86-video-hwcomposer
+
+>xiaomi-miatoll pulseaudio-hybris
+>xiaomi-miatoll wlroots-hybris
+>xiaomi-miatoll gnomeshell-config-hybris
+>xiaomi-miatoll gst-plugins-bad-hybris
+>xiaomi-miatoll gst-plugins-bad-libs-hybris
+>xiaomi-miatoll gst-plugin-wpe-hybris
+>xiaomi-miatoll gnome-settings-daemon-hybris
+>xiaomi-miatoll sensorfw-hybris
+>xiaomi-miatoll hadess-sensorfw-proxy
+>xiaomi-miatoll glamor-hybris
+>xiaomi-miatoll drihybris
+>xiaomi-miatoll xf86-video-hwcomposer
+
+>xiaomi-dandelion pulseaudio-hybris
+>xiaomi-dandelion wlroots-hybris
+>xiaomi-dandelion gnomeshell-config-hybris
+>xiaomi-dandelion gst-plugins-bad-hybris
+>xiaomi-dandelion gst-plugins-bad-libs-hybris
+>xiaomi-dandelion gst-plugin-wpe-hybris
+>xiaomi-dandelion gnome-settings-daemon-hybris
+>xiaomi-dandelion sensorfw-hybris
+>xiaomi-dandelion hadess-sensorfw-proxy
+>xiaomi-dandelion glamor-hybris
+>xiaomi-dandelion drihybris
+>xiaomi-dandelion xf86-video-hwcomposer
+
+>samsung-starqlte pulseaudio-hybris
+>samsung-starqlte wlroots-hybris
+>samsung-starqlte gnomeshell-config-hybris
+>samsung-starqlte gst-plugins-bad-hybris
+>samsung-starqlte gst-plugins-bad-libs-hybris
+>samsung-starqlte gst-plugin-wpe-hybris
+>samsung-starqlte gnome-settings-daemon-hybris
+>samsung-starqlte sensorfw-hybris
+>samsung-starqlte hadess-sensorfw-proxy
+>samsung-starqlte glamor-hybris
+>samsung-starqlte drihybris
+>samsung-starqlte xf86-video-hwcomposer
 
 # Minimal packages
 sudo
@@ -15,21 +132,6 @@ irqbalance
 
 # Sound, video and bluetooth
 pavucontrol
-pulseaudio-alsa
-alsa-utils
-bluez
-bluez-utils
-pipewire-alsa
-pipewire-pulse
-pipewire-zeroconf
-grilo
-grilo-plugins
-gst-libav
-gst-plugin-pipewire
-libva-v4l2-request
-
-# Display Manager
-gdm
 
 # Network
 avahi
@@ -114,28 +216,11 @@ wqy-microhei #chinese
 
 # some interesting CLI tools
 bash-completion
-bat
-box64
-cpu-temp-speed
 curl
-exa
-fd
-ffmpegthumbnailer
-fzf
-helix
 htop
-jq
-mediainfo
 mlocate
 neofetch
-odt2txt
-onefetch
-ripgrep
-rsync
-silver
 wget
-tlp
-yad
 yay
 
 # Applications
@@ -166,10 +251,6 @@ ntfs-3g
 mpv
 ffmpeg
 usb_modeswitch
-
-# Optional dependencies file-roller
-p7zip  # 7Z and ARJ archive support
-unrar  # RAR archive support
 
 ## Xorg Input Drivers
 xf86-input-elographics
