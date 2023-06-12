@@ -136,3 +136,30 @@ zmqpp
 #lomiri-calculator-app-git
 #lomiri-gallery-app-git
 #unav
+
+>halium-9 pulseaudio-hybris
+>halium-9 sensorfw-hybris
+
+>halium-10 pulseaudio-hybris
+>halium-10 sensorfw-hybris
+
+>halium-11 pulseaudio-hybris
+>halium-11 sensorfw-hybris
+
+>google-sargo pulseaudio-hybris
+>google-sargo sensorfw-hybris
+
+>xiaomi-onclite pulseaudio-hybris
+>xiaomi-onclite sensorfw-hybris
+
+>xiaomi-lavender pulseaudio-hybris
+>xiaomi-lavender sensorfw-hybris
+
+>xiaomi-miatoll pulseaudio-hybris
+>xiaomi-miatoll sensorfw-hybris
+
+>xiaomi-dandelion pulseaudio-hybris
+>xiaomi-dandelion sensorfw-hybris
+
+>samsung-starqlte pulseaudio-hybris
+>samsung-starqlte sensorfw-hybris
