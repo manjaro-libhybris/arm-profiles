@@ -130,9 +130,6 @@ man-db
 zswap-arm
 irqbalance
 
-# Sound, video and bluetooth
-pavucontrol
-
 # Network
 avahi
 networkmanager
@@ -159,9 +156,9 @@ gnome-music
 gnome-panel
 gnome-photos
 gnome-power-manager
-gnome-screenshot
 gnome-session
 gnome-settings-daemon
+gnome-screenshot
 gnome-shell
 gnome-shell-extensions
 gnome-system-log
@@ -178,10 +175,7 @@ sushi
 totem
 
 # Themes
-qt5ct
 qt5-wayland
-kvantum-qt5
-kvantum-theme-matchama
 matcha-gtk-theme
 manjaro-arm-wallpapers
 papirus-maia-icon-theme
@@ -191,12 +185,6 @@ xcursor-breeze
 epiphany
 firefox
 firefox-ublock-origin
-
-# Email
-geary
-
-# Office suite
-libreoffice-fresh
 
 # Package Manager
 pamac-gtk
@@ -212,7 +200,6 @@ ttf-droid
 ttf-inconsolata
 ttf-font-awesome
 ttf-roboto
-wqy-microhei #chinese
 
 # some interesting CLI tools
 bash-completion
@@ -227,7 +214,6 @@ yay
 celluloid
 dconf-editor
 eog
-evince
 file-roller
 gcolor3
 gedit
@@ -235,26 +221,12 @@ gedit-plugins
 gnome-epub-thumbnailer
 manjaro-settings-manager
 matray
-remmina
-seahorse
-simple-scan
-
-# File systems access
-gvfs
-gvfs-gphoto2
-gvfs-mtp
-gvfs-nfs
-gvfs-smb
-ifuse
-mtpfs
 ntfs-3g
 mpv
 ffmpeg
-usb_modeswitch
 
 ## Xorg Input Drivers
 xf86-input-elographics
-#xf86-input-evdev
 xf86-input-libinput
 xf86-input-void
 
@@ -270,3 +242,17 @@ xorg-xkill
 ## Desktop Utils
 xdg-utils
 xdg-desktop-portal-gtk
+
+# Phosh packages
+gtk3-mobile
+chatty
+evince-mobile
+powersupply
+gnome-console
+xdg-user-dirs
+gnome-contacts-mobile
+gnome-usage-mobile
+gnome-sound-recorder
+gnome-initial-setup-mobile
+dnsmasq
+wake-mobile
