@@ -145,18 +145,13 @@
 >samsung-starqlte hadess-sensorfw-proxy
 
 # Minimal packages
-glibc-locales
 sudo
 parted
 openssh
 haveged
-inxi
 ncdu
 nano
 dhcpcd
-man-pages
-man-db
-ntfs-3g
 zswap-arm
 bash-completion
 
@@ -175,7 +170,6 @@ gnome-contacts-mobile
 gnome-control-center-mobile
 gnome-usage-mobile
 gnome-sound-recorder
-gnome-initial-setup-mobile
 dnsmasq
 wake-mobile
 
@@ -195,8 +189,6 @@ papirus-maia-icon-theme
 
 # Other packages
 bluez
-pamac-gtk
-pamac-gnome-integration
 portfolio-file-manager
 iio-sensor-proxy
 networkmanager
@@ -206,7 +198,5 @@ firefox
 qt5-wayland
 noto-fonts-emoji
 noto-fonts-cjk
-postmarketos-tweaks-phosh
 phosh-mobile-settings
 mobile-config-firefox
-strace

@@ -5,17 +5,11 @@ sudo
 parted
 openssh
 haveged
-inxi
 ncdu
 nano
 dhcpcd
-man-pages
-man-db
-ntfs-3g
-usbutils
 zswap-arm
 bash-completion
-irqbalance
 htop
 lxc
 yay
@@ -23,6 +17,3 @@ networkmanager
 bluez
 dnsmasq
 strace
-
-# Minimal edition packages
-manjaro-hotfixes

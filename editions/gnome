@@ -95,11 +95,8 @@ sudo
 parted
 openssh
 haveged
-inxi
 ncdu
 nano
-man-pages
-man-db
 zswap-arm
 
 # Network
