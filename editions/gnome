@@ -101,51 +101,32 @@ nano
 man-pages
 man-db
 zswap-arm
-irqbalance
 
 # Network
-avahi
 networkmanager
-networkmanager-openvpn
 dhclient
-manjaro-hotfixes
-manjaro-settings-samba
 
 # Core GNOME
-gnome-power-manager
 gnome-applets
 gnome-calculator
-gnome-characters
 gnome-control-center
 gnome-desktop
-gnome-disk-utility
-gnome-font-viewer
-gnome-getting-started-docs
 gnome-keyring
-gnome-logs
-gnome-maps
 gnome-menus
 gnome-music
 gnome-panel
 gnome-photos
-gnome-power-manager
 gnome-session
 gnome-settings-daemon
 gnome-screenshot
 gnome-shell
 gnome-shell-extensions
-gnome-system-log
-gnome-system-monitor
-gnome-user-docs
-gnome-user-share
 gnome-terminal
 gnome-tweaks
 gnome-weather
-gufw
 mutter
 nautilus
-sushi
-totem
+geary
 
 # Themes
 qt5-wayland
@@ -156,8 +137,6 @@ xcursor-breeze
 
 # Web Browser
 epiphany
-firefox
-firefox-ublock-origin
 
 # Package Manager
 pamac-gtk
@@ -168,11 +147,11 @@ pamac-cli
 # Fonts
 noto-fonts
 noto-fonts-emoji
-ttf-bitstream-vera
-ttf-droid
-ttf-inconsolata
 ttf-font-awesome
 ttf-roboto
+ttf-hack
+ttf-opensans
+ttf-liberation
 
 # some interesting CLI tools
 bash-completion
@@ -184,33 +163,21 @@ wget
 yay
 
 # Applications
-celluloid
 dconf-editor
 eog
 file-roller
-gcolor3
 gedit
 gedit-plugins
-gnome-epub-thumbnailer
 manjaro-settings-manager
-matray
-ntfs-3g
-mpv
 ffmpeg
+mpv
 
-## Xorg Input Drivers
-xf86-input-elographics
+## X1! packages
 xf86-input-libinput
-xf86-input-void
-
-## Xorg Server and Graphics
 xdg-user-dirs
 xorg-server
 xorg-xwayland
-numlockx
-xorg-twm
 xorg-xinit
-xorg-xkill
 
 ## Desktop Utils
 xdg-utils
@@ -226,7 +193,5 @@ xdg-user-dirs
 gnome-contacts-mobile
 gnome-usage-mobile
 gnome-sound-recorder
-gnome-initial-setup-mobile
 dnsmasq
 wake-mobile
-epiphany
