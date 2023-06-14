@@ -3,7 +3,6 @@ NetworkManager.service
 bluetooth.service
 zswap-arm.service
 systemd-oomd.service
-irqbalance.service
 
 >halium-9 halium9-post-install.service
 >halium-9 lxc@android.service
