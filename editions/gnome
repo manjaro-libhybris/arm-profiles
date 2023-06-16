@@ -98,6 +98,7 @@ haveged
 ncdu
 nano
 zswap-arm
+git
 
 # Network
 networkmanager
@@ -110,15 +111,12 @@ gnome-control-center
 gnome-desktop
 gnome-keyring
 gnome-menus
-gnome-music
 gnome-panel
 gnome-photos
 gnome-session
 gnome-settings-daemon
-gnome-screenshot
 gnome-shell
 gnome-shell-extensions
-gnome-terminal
 gnome-tweaks
 gnome-weather
 gnome-backgrounds
@@ -164,9 +162,6 @@ yay
 dconf-editor
 eog
 file-roller
-gedit
-gedit-plugins
-manjaro-settings-manager
 ffmpeg
 mpv
 
@@ -189,7 +184,7 @@ powersupply
 gnome-console
 xdg-user-dirs
 gnome-contacts-mobile
-gnome-usage-mobile
 gnome-sound-recorder
 dnsmasq
 wake-mobile
+portfolio-file-manager
