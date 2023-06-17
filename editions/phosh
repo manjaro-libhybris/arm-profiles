@@ -179,7 +179,7 @@ gnome-keyring
 file-roller
 eog
 lollypop
-gedit
+gnome-text-editor
 geary
 
 # Theming

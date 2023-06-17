@@ -114,12 +114,12 @@ gnome-menus
 gnome-panel
 gnome-photos
 gnome-session
-gnome-settings-daemon
 gnome-shell
 gnome-shell-extensions
 gnome-tweaks
 gnome-weather
 gnome-backgrounds
+gnome-text-editor
 mutter
 nautilus
 geary
@@ -188,3 +188,4 @@ gnome-sound-recorder
 dnsmasq
 wake-mobile
 portfolio-file-manager
+callaudiod-hybris
