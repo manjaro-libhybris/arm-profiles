@@ -1,12 +1,6 @@
 ## Maintained by Bernhard ##
 
-# Phone specific packages
->pinephone modemmanager-pp
->pinephone noto-fonts-cjk # needed to display * and # in dialer
->pinephone plasma-dialer
-
 # Minimal packages
-glibc-locales
 sudo
 parted
 openssh
@@ -14,13 +8,8 @@ haveged
 inxi
 ncdu
 nano
-dhcpcd
-#man-pages
-#man-db
-ntfs-3g
 zswap-arm
 bash-completion
-irqbalance
 
 # OpenGLES qt packages
 qt5-es2-base
@@ -42,9 +31,6 @@ kio-extras
 kdegraphics-thumbnailers
 libappimage
 ffmpegthumbs
-
-# Personal assistance
-#mycroft-gui-git
 
 # PM Packages
 angelfish
@@ -80,7 +66,7 @@ plasma-mobile-settings
 plasma-nano
 plasma-phone-components
 plasma-phonebook
-#plasma-pix
+plasma-pix
 plasma-settings
 plymouth-shim
 qmlkonsole
@@ -94,10 +80,6 @@ oxygen-sounds
 # First run wizard
 pico-wizard-plamo-scripts
 pico-wizard-git
-
-# Packages to be built
-#qrca #no tagged release
-#plasmatube #no tagged release
 
 # Regular Plasma packages
 bluez
@@ -118,7 +100,6 @@ discover
 packagekit-qt5
 koko
 qqc2-breeze-style
-# peruse
 
 # Theming
 manjaro-arm-wallpapers
@@ -141,17 +122,12 @@ xdg-user-dirs
 debianutils
 flatpak
 iio-sensor-proxy
-#manjaro-arm-flasher
-#pamac-cli
 psensor
-#firefox
 telegram-desktop
-qt5-wayland # for telegram-desktop
+qt5-wayland
 megapixels
-#vim
 bootsplash-theme-kde
 breeze-gtk
-lcms2 # needed for kwin nightmode
-hfd-service
+lcms2
 dnsmasq
 appimagelauncher
