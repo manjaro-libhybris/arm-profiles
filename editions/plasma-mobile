@@ -1,52 +1,104 @@
-## Maintained by Bernhard ##
+## Maintained by Bardia Moshiri ##
 
-# Phone specific packages
->pinephone ofono
->pinephone ofonoctl
->pinephone libqofono-qt5
->pinephone modemmanager-pp
+>halium-9 pulseaudio-hybris
+>halium-9 sensorfw-hybris
+>halium-9 hadess-sensorfw-proxy
+>halium-9 glamor-hybris
+>halium-9 drihybris
+>halium-9 xf86-video-hwcomposer
+
+>halium-10 pulseaudio-hybris
+>halium-10 sensorfw-hybris
+>halium-10 hadess-sensorfw-proxy
+>halium-10 glamor-hybris
+>halium-10 drihybris
+>halium-10 xf86-video-hwcomposer
+
+>halium-11 pulseaudio-hybris
+>halium-11 sensorfw-hybris
+>halium-11 hadess-sensorfw-proxy
+>halium-11 glamor-hybris
+>halium-11 drihybris
+>halium-11 xf86-video-hwcomposer
+
+>google-sargo pulseaudio-hybris
+>google-sargo sensorfw-hybris
+>google-sargo hadess-sensorfw-proxy
+>google-sargo glamor-hybris
+>google-sargo drihybris
+>google-sargo xf86-video-hwcomposer
+
+>xiaomi-onclite pulseaudio-hybris
+>xiaomi-onclite sensorfw-hybris
+>xiaomi-onclite hadess-sensorfw-proxy
+>xiaomi-onclite glamor-hybris
+>xiaomi-onclite drihybris
+>xiaomi-onclite xf86-video-hwcomposer
+
+>xiaomi-lavender pulseaudio-hybris
+>xiaomi-lavender sensorfw-hybris
+>xiaomi-lavender hadess-sensorfw-proxy
+>xiaomi-lavender glamor-hybris
+>xiaomi-lavender drihybris
+>xiaomi-lavender xf86-video-hwcomposer
+
+>xiaomi-miatoll pulseaudio-hybris
+>xiaomi-miatoll sensorfw-hybris
+>xiaomi-miatoll hadess-sensorfw-proxy
+>xiaomi-miatoll glamor-hybris
+>xiaomi-miatoll drihybris
+>xiaomi-miatoll xf86-video-hwcomposer
+
+>xiaomi-dandelion pulseaudio-hybris
+>xiaomi-dandelion sensorfw-hybris
+>xiaomi-dandelion hadess-sensorfw-proxy
+>xiaomi-dandelion glamor-hybris
+>xiaomi-dandelion drihybris
+>xiaomi-dandelion xf86-video-hwcomposer
+
+>samsung-starqlte pulseaudio-hybris
+>samsung-starqlte sensorfw-hybris
+>samsung-starqlte hadess-sensorfw-proxy
+>samsung-starqlte glamor-hybris
+>samsung-starqlte drihybris
+>samsung-starqlte xf86-video-hwcomposer
 
 # Minimal packages
-glibc-locales
 sudo
 parted
 openssh
 haveged
-inxi
 ncdu
 nano
 dhcpcd
-#man-pages
-#man-db
 ntfs-3g
 zswap-arm
 bash-completion
-irqbalance
 
 # OpenGLES qt packages
-qt5-es2-base
-qt5-es2-declarative
-qt5-es2-multimedia
-qt5-es2-wayland
-pyside2-es2
+#qt5-es2-base
+#qt5-es2-declarative
+#qt5-es2-multimedia
+#qt5-es2-wayland
+#pyside2-es2
+
+qt5-base
+qt5-declarative
+qt5-multimedia
+qt5-wayland
+pyside2
 
 # Multimedia packages
 gst-libav
 gst-plugins-bad
 gst-plugins-base
 gst-plugins-ugly
-#ffmpeg-pp
-maui-clip
-youtube-dl
 
 # Image packages
 kio-extras
 kdegraphics-thumbnailers
 libappimage
 ffmpegthumbs
-
-# Personal assistance
-#mycroft-gui-git
 
 # PM Packages
 angelfish
@@ -71,20 +123,14 @@ maliit-framework
 maliit-keyboard
 mauikit
 neochat
->pinephone noto-fonts-cjk # needed to display * and # in dialer
 noto-fonts-emoji
-anthy #fix japanese
-libpinyin #fix chinese
-libchewing #fix chinese
-maui-nota
 okular
->pinephone plasma-dialer
 plasma-mobile-nm
 plasma-mobile-settings
 plasma-nano
 plasma-phone-components
 plasma-phonebook
-#plasma-pix
+plasma-pix
 plasma-settings
 plymouth-shim
 qmlkonsole
@@ -97,10 +143,6 @@ xdg-utils
 # First run wizard
 pico-wizard-plamo-scripts
 pico-wizard-git
-
-# Packages to be built
-#qrca #no tagged release
-#plasmatube #no tagged release
 
 # Regular Plasma packages
 bluez
@@ -121,7 +163,6 @@ discover
 packagekit-qt5
 koko
 qqc2-breeze-style
-# peruse
 
 # Theming
 manjaro-arm-wallpapers
@@ -144,17 +185,13 @@ xdg-user-dirs
 debianutils
 flatpak
 iio-sensor-proxy
-#manjaro-arm-flasher
-#pamac-cli
 psensor
-#firefox
 telegram-desktop
-qt5-wayland # for telegram-desktop
+qt5-wayland
 megapixels
 vim
 bootsplash-theme-kde
 breeze-gtk
-lcms2 # needed for kwin nightmode
-hfd-service
+lcms2
 dnsmasq
 appimagelauncher

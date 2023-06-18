@@ -105,7 +105,6 @@ systemd-oomd.service
 >xiaomi-lavender gnome-session-unfailed.service
 
 >xiaomi-dandelion xiaomi-dandelion-adaptation.service
->xiaomi-dandelion gnome-session-unfailed.service
 >xiaomi-dandelion ssh-fix.service
 >xiaomi-dandelion pbhelper.service
 >xiaomi-dandelion brightness.service
