@@ -5,18 +5,23 @@ sudo
 parted
 openssh
 haveged
-inxi
 ncdu
 nano
 zswap-arm
 bash-completion
 
 # OpenGLES qt packages
-qt5-es2-base
-qt5-es2-declarative
-qt5-es2-multimedia
-qt5-es2-wayland
-pyside2-es2
+#qt5-es2-base
+#qt5-es2-declarative
+#qt5-es2-multimedia
+#qt5-es2-wayland
+#pyside2-es2
+
+qt5-base
+qt5-declarative
+qt5-multimedia
+qt5-wayland
+pyside2
 
 # Multimedia packages
 gst-libav
@@ -46,7 +51,7 @@ kclock
 keysmith
 kio-extras
 kongress
-#kpeoplesink
+kpeoplesink
 krecorder
 ktrip
 kweather
@@ -56,23 +61,18 @@ maliit-keyboard
 mauikit
 neochat
 noto-fonts-emoji
-anthy #fix japanese
-libpinyin #fix chinese
-libchewing #fix chinese
 maui-nota
 okular
 plasma-mobile-nm
 plasma-mobile-settings
 plasma-nano
-plasma-phone-components
 plasma-phonebook
-plasma-pix
 plasma-settings
 plymouth-shim
 qmlkonsole
 spacebar
 telepathy-mission-control
-#telepathy-ofono
+telepathy-ofono
 vvave
 xdg-utils
 oxygen-sounds
@@ -105,13 +105,6 @@ qqc2-breeze-style
 manjaro-arm-wallpapers
 manjaro-icons
 
-# Wayland stuff
-kwayland
-kwayland-integration
-xorg-xwayland
-kwayland-server
-pipewire-media-session
-
 # Other
 mesa
 tlp
@@ -120,14 +113,9 @@ pulseaudio-bluetooth
 wget
 xdg-user-dirs
 debianutils
-flatpak
 iio-sensor-proxy
 psensor
-telegram-desktop
-qt5-wayland
-megapixels
 bootsplash-theme-kde
 breeze-gtk
 lcms2
 dnsmasq
-appimagelauncher

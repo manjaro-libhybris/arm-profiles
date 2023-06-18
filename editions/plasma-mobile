@@ -128,9 +128,7 @@ okular
 plasma-mobile-nm
 plasma-mobile-settings
 plasma-nano
-plasma-phone-components
 plasma-phonebook
-plasma-pix
 plasma-settings
 plymouth-shim
 qmlkonsole
@@ -168,13 +166,6 @@ qqc2-breeze-style
 manjaro-arm-wallpapers
 manjaro-icons
 
-# Wayland stuff
-kwayland
-kwayland-integration
-xorg-xwayland
-kwayland-server
-pipewire-media-session
-
 # Other
 mesa
 tlp
@@ -183,15 +174,9 @@ pulseaudio-bluetooth
 wget
 xdg-user-dirs
 debianutils
-flatpak
 iio-sensor-proxy
 psensor
-telegram-desktop
-qt5-wayland
-megapixels
-vim
 bootsplash-theme-kde
 breeze-gtk
 lcms2
 dnsmasq
-appimagelauncher
