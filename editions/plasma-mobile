@@ -125,6 +125,7 @@ mauikit
 neochat
 noto-fonts-emoji
 okular
+plasma-mobile
 plasma-mobile-nm
 plasma-mobile-settings
 plasma-nano
@@ -137,6 +138,7 @@ telepathy-mission-control
 telepathy-ofono
 vvave
 xdg-utils
+baloo
 
 # First run wizard
 pico-wizard-plamo-scripts
