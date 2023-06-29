@@ -15,6 +15,8 @@
 >halium-9 sensorfw-hybris
 >halium-9 feedbackd-hybris
 >halium-9 hadess-sensorfw-proxy
+>halium-9 flashlightd
+>halium-9 gst-droid
 
 # halium-10
 >halium-10 pulseaudio-hybris
@@ -31,6 +33,8 @@
 >halium-10 sensorfw-hybris
 >halium-10 feedbackd-hybris
 >halium-10 hadess-sensorfw-proxy
+>halium-10 flashlightd
+>halium-10 gst-droid
 
 # halium-11
 >halium-11 pulseaudio-hybris
@@ -47,6 +51,8 @@
 >halium-11 sensorfw-hybris
 >halium-11 feedbackd-hybris
 >halium-11 hadess-sensorfw-proxy
+>halium-11 flashlightd
+>halium-11 gst-droid
 
 # google-sargo
 >google-sargo pulseaudio-hybris
@@ -63,8 +69,10 @@
 >google-sargo sensorfw-hybris
 >google-sargo feedbackd-hybris
 >google-sargo hadess-sensorfw-proxy
+>google-sargo flashlightd
+>google-sargo gst-droid
 
-# onclite
+# xiaomi-onclite
 >xiaomi-onclite pulseaudio-hybris
 >xiaomi-onclite phosh-hybris
 >xiaomi-onclite phoc-hybris
@@ -79,8 +87,10 @@
 >xiaomi-onclite sensorfw-hybris
 >xiaomi-onclite feedbackd-hybris
 >xiaomi-onclite hadess-sensorfw-proxy
+>xiaomi-onclite flashlightd
+>xiaomi-onclite gst-droid
 
-# lavender
+# xiaomi-lavender
 >xiaomi-lavender pulseaudio-hybris
 >xiaomi-lavender phosh-hybris
 >xiaomi-lavender phoc-hybris
@@ -95,8 +105,10 @@
 >xiaomi-lavender sensorfw-hybris
 >xiaomi-lavender feedbackd-hybris
 >xiaomi-lavender hadess-sensorfw-proxy
+>xiaomi-lavender flashlightd
+>xiaomi-lavender gst-droid
 
-# miatoll
+# xiaomi-miatoll
 >xiaomi-miatoll pulseaudio-hybris
 >xiaomi-miatoll phosh-hybris
 >xiaomi-miatoll phoc-hybris
@@ -111,8 +123,10 @@
 >xiaomi-miatoll sensorfw-hybris
 >xiaomi-miatoll feedbackd-hybris
 >xiaomi-miatoll hadess-sensorfw-proxy
+>xiaomi-miatoll flashlightd
+>xiaomi-miatoll gst-droid
 
-# dandelion
+# xiaomi-dandelion
 >xiaomi-dandelion pulseaudio-hybris
 >xiaomi-dandelion phosh-hybris
 >xiaomi-dandelion phoc-hybris
@@ -127,8 +141,10 @@
 >xiaomi-dandelion sensorfw-hybris
 >xiaomi-dandelion feedbackd-hybris
 >xiaomi-dandelion hadess-sensorfw-proxy
+>xiaomi-dandelion flashlightd
+>xiaomi-dandelion gst-droid
 
-# starqlte
+# samsung-starqlte
 >samsung-starqlte pulseaudio-hybris
 >samsung-starqlte phosh-hybris
 >samsung-starqlte phoc-hybris
@@ -143,6 +159,8 @@
 >samsung-starqlte sensorfw-hybris
 >samsung-starqlte feedbackd-hybris
 >samsung-starqlte hadess-sensorfw-proxy
+>samsung-starqlte flashlightd
+>samsung-starqlte gst-droid
 
 # Minimal packages
 sudo
@@ -172,6 +190,7 @@ gnome-usage-mobile
 gnome-sound-recorder
 dnsmasq
 wake-mobile
+pinhole
 
 # Gnome packages
 gnome-clocks

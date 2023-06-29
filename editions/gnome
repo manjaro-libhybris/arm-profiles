@@ -1,5 +1,6 @@
 ## Maintained by Bardia Moshiri ##
 
+# halium-9
 >halium-9 pulseaudio-hybris
 >halium-9 wlroots-hybris
 >halium-9 gnomeshell-config-hybris
@@ -9,7 +10,10 @@
 >halium-9 glamor-hybris
 >halium-9 drihybris
 >halium-9 xf86-video-hwcomposer
+>halium-9 flashlightd
+>halium-9 gst-droid
 
+# halium-10
 >halium-10 pulseaudio-hybris
 >halium-10 wlroots-hybris
 >halium-10 gnomeshell-config-hybris
@@ -19,7 +23,10 @@
 >halium-10 glamor-hybris
 >halium-10 drihybris
 >halium-10 xf86-video-hwcomposer
+>halium-10 flashlightd
+>halium-10 gst-droid
 
+# halium-11
 >halium-11 pulseaudio-hybris
 >halium-11 wlroots-hybris
 >halium-11 gnomeshell-config-hybris
@@ -29,7 +36,10 @@
 >halium-11 glamor-hybris
 >halium-11 drihybris
 >halium-11 xf86-video-hwcomposer
+>halium-11 flashlightd
+>halium-11 gst-droid
 
+# google-sargo
 >google-sargo pulseaudio-hybris
 >google-sargo wlroots-hybris
 >google-sargo gnomeshell-config-hybris
@@ -39,7 +49,10 @@
 >google-sargo glamor-hybris
 >google-sargo drihybris
 >google-sargo xf86-video-hwcomposer
+>google-sargo flashlightd
+>google-sargo gst-droid
 
+# xiaomi-onclite
 >xiaomi-onclite pulseaudio-hybris
 >xiaomi-onclite wlroots-hybris
 >xiaomi-onclite gnomeshell-config-hybris
@@ -49,7 +62,10 @@
 >xiaomi-onclite glamor-hybris
 >xiaomi-onclite drihybris
 >xiaomi-onclite xf86-video-hwcomposer
+>xiaomi-onclite flashlightd
+>xiaomi-onclite gst-droid
 
+# xiaomi-lavender
 >xiaomi-lavender pulseaudio-hybris
 >xiaomi-lavender wlroots-hybris
 >xiaomi-lavender gnomeshell-config-hybris
@@ -59,7 +75,10 @@
 >xiaomi-lavender glamor-hybris
 >xiaomi-lavender drihybris
 >xiaomi-lavender xf86-video-hwcomposer
+>xiaomi-lavender flashlightd
+>xiaomi-lavender gst-droid
 
+# xiaomi-miatoll
 >xiaomi-miatoll pulseaudio-hybris
 >xiaomi-miatoll wlroots-hybris
 >xiaomi-miatoll gnomeshell-config-hybris
@@ -69,7 +88,10 @@
 >xiaomi-miatoll glamor-hybris
 >xiaomi-miatoll drihybris
 >xiaomi-miatoll xf86-video-hwcomposer
+>xiaomi-miatoll flashlightd
+>xiaomi-miatoll gst-droid
 
+# xiaomi-dandelion
 >xiaomi-dandelion pulseaudio-hybris
 >xiaomi-dandelion wlroots-hybris
 >xiaomi-dandelion gnomeshell-config-hybris
@@ -79,7 +101,10 @@
 >xiaomi-dandelion glamor-hybris
 >xiaomi-dandelion drihybris
 >xiaomi-dandelion xf86-video-hwcomposer
+>xiaomi-dandelion flashlightd
+>xiaomi-dandelion gst-droid
 
+# samsung-starqlte
 >samsung-starqlte pulseaudio-hybris
 >samsung-starqlte wlroots-hybris
 >samsung-starqlte gnomeshell-config-hybris
@@ -89,6 +114,8 @@
 >samsung-starqlte glamor-hybris
 >samsung-starqlte drihybris
 >samsung-starqlte xf86-video-hwcomposer
+>samsung-starqlte flashlightd
+>samsung-starqlte gst-droid
 
 # Minimal packages
 sudo
@@ -165,7 +192,7 @@ file-roller
 ffmpeg
 mpv
 
-## X1! packages
+## X11 packages
 xf86-input-libinput
 xdg-user-dirs
 xorg-server
@@ -189,3 +216,4 @@ dnsmasq
 wake-mobile
 portfolio-file-manager
 callaudiod-hybris
+pinhole
