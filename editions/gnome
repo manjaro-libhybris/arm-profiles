@@ -12,6 +12,8 @@
 >halium-9 xf86-video-hwcomposer
 >halium-9 flashlightd
 >halium-9 gst-droid
+>halium-9 libaperture-hybris
+>halium-9 callaudiod-hybris
 
 # halium-10
 >halium-10 pulseaudio-hybris
@@ -25,6 +27,8 @@
 >halium-10 xf86-video-hwcomposer
 >halium-10 flashlightd
 >halium-10 gst-droid
+>halium-10 libaperture-hybris
+>halium-10 callaudiod-hybris
 
 # halium-11
 >halium-11 pulseaudio-hybris
@@ -38,6 +42,8 @@
 >halium-11 xf86-video-hwcomposer
 >halium-11 flashlightd
 >halium-11 gst-droid
+>halium-11 libaperture-hybris
+>halium-11 callaudiod-hybris
 
 # google-sargo
 >google-sargo pulseaudio-hybris
@@ -51,6 +57,8 @@
 >google-sargo xf86-video-hwcomposer
 >google-sargo flashlightd
 >google-sargo gst-droid
+>google-sargo libaperture-hybris
+>google-sargo callaudiod-hybris
 
 # xiaomi-onclite
 >xiaomi-onclite pulseaudio-hybris
@@ -64,6 +72,8 @@
 >xiaomi-onclite xf86-video-hwcomposer
 >xiaomi-onclite flashlightd
 >xiaomi-onclite gst-droid
+>xiaomi-onclite libaperture-hybris
+>xiaomi-onclite callaudiod-hybris
 
 # xiaomi-lavender
 >xiaomi-lavender pulseaudio-hybris
@@ -77,6 +87,8 @@
 >xiaomi-lavender xf86-video-hwcomposer
 >xiaomi-lavender flashlightd
 >xiaomi-lavender gst-droid
+>xiaomi-lavender libaperture-hybris
+>xiaomi-lavender callaudiod-hybris
 
 # xiaomi-miatoll
 >xiaomi-miatoll pulseaudio-hybris
@@ -90,6 +102,8 @@
 >xiaomi-miatoll xf86-video-hwcomposer
 >xiaomi-miatoll flashlightd
 >xiaomi-miatoll gst-droid
+>xiaomi-miatoll libaperture-hybris
+>xiaomi-miatoll callaudiod-hybris
 
 # xiaomi-dandelion
 >xiaomi-dandelion pulseaudio-hybris
@@ -103,6 +117,8 @@
 >xiaomi-dandelion xf86-video-hwcomposer
 >xiaomi-dandelion flashlightd
 >xiaomi-dandelion gst-droid
+>xiaomi-dandelion libaperture-hybris
+>xiaomi-dandelion callaudiod-hybris
 
 # samsung-starqlte
 >samsung-starqlte pulseaudio-hybris
@@ -116,6 +132,8 @@
 >samsung-starqlte xf86-video-hwcomposer
 >samsung-starqlte flashlightd
 >samsung-starqlte gst-droid
+>samsung-starqlte libaperture-hybris
+>samsung-starqlte
 
 # Minimal packages
 sudo
@@ -215,5 +233,4 @@ gnome-sound-recorder
 dnsmasq
 wake-mobile
 portfolio-file-manager
-callaudiod-hybris
 pinhole

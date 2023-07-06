@@ -17,6 +17,7 @@
 >halium-9 hadess-sensorfw-proxy
 >halium-9 flashlightd
 >halium-9 gst-droid
+>halium-9 libaperture-hybris
 
 # halium-10
 >halium-10 pulseaudio-hybris
@@ -35,6 +36,7 @@
 >halium-10 hadess-sensorfw-proxy
 >halium-10 flashlightd
 >halium-10 gst-droid
+>halium-10 libaperture-hybris
 
 # halium-11
 >halium-11 pulseaudio-hybris
@@ -53,6 +55,7 @@
 >halium-11 hadess-sensorfw-proxy
 >halium-11 flashlightd
 >halium-11 gst-droid
+>halium-11 libaperture-hybris
 
 # google-sargo
 >google-sargo pulseaudio-hybris
@@ -71,6 +74,7 @@
 >google-sargo hadess-sensorfw-proxy
 >google-sargo flashlightd
 >google-sargo gst-droid
+>google-sargo libaperture-hybris
 
 # xiaomi-onclite
 >xiaomi-onclite pulseaudio-hybris
@@ -89,6 +93,7 @@
 >xiaomi-onclite hadess-sensorfw-proxy
 >xiaomi-onclite flashlightd
 >xiaomi-onclite gst-droid
+>xiaomi-onclite libaperture-hybris
 
 # xiaomi-lavender
 >xiaomi-lavender pulseaudio-hybris
@@ -107,6 +112,7 @@
 >xiaomi-lavender hadess-sensorfw-proxy
 >xiaomi-lavender flashlightd
 >xiaomi-lavender gst-droid
+>xiaomi-lavender libaperture-hybris
 
 # xiaomi-miatoll
 >xiaomi-miatoll pulseaudio-hybris
@@ -125,6 +131,7 @@
 >xiaomi-miatoll hadess-sensorfw-proxy
 >xiaomi-miatoll flashlightd
 >xiaomi-miatoll gst-droid
+>xiaomi-miatoll libaperture-hybris
 
 # xiaomi-dandelion
 >xiaomi-dandelion pulseaudio-hybris
@@ -143,6 +150,7 @@
 >xiaomi-dandelion hadess-sensorfw-proxy
 >xiaomi-dandelion flashlightd
 >xiaomi-dandelion gst-droid
+>xiaomi-dandelion libaperture-hybris
 
 # samsung-starqlte
 >samsung-starqlte pulseaudio-hybris
@@ -161,6 +169,7 @@
 >samsung-starqlte hadess-sensorfw-proxy
 >samsung-starqlte flashlightd
 >samsung-starqlte gst-droid
+>samsung-starqlte libaperture-hybris
 
 # Minimal packages
 sudo
