@@ -133,7 +133,22 @@
 >samsung-starqlte flashlightd
 >samsung-starqlte gst-droid
 >samsung-starqlte libaperture-hybris
->samsung-starqlte
+>samsung-starqlte callaudiod-hybris
+
+# xiaomi-vayu
+>xiaomi-vayu pulseaudio-hybris
+>xiaomi-vayu wlroots-hybris
+>xiaomi-vayu gnomeshell-config-hybris
+>xiaomi-vayu gnome-settings-daemon-hybris
+>xiaomi-vayu sensorfw-hybris
+>xiaomi-vayu hadess-sensorfw-proxy
+>xiaomi-vayu glamor-hybris
+>xiaomi-vayu drihybris
+>xiaomi-vayu xf86-video-hwcomposer
+>xiaomi-vayu flashlightd
+>xiaomi-vayu gst-droid
+>xiaomi-vayu libaperture-hybris
+>xiaomi-vayu callaudiod-hybris
 
 # Minimal packages
 sudo

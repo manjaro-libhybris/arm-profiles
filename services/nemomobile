@@ -11,6 +11,7 @@ systemd-oomd.service
 nemodebugmode.service
 ohmd.service
 
+# halium-9
 >halium-9 ofono.service
 >halium-9 ofonoctl.service
 >halium-9 halium9-post-install.service
@@ -24,6 +25,7 @@ ohmd.service
 >halium-9 nemomobile.service
 >halium-9 sensorfwd.service
 
+# halium-10
 >halium-10 ofono.service
 >halium-10 ofonoctl.service
 >halium-10 halium10-post-install.service
@@ -37,6 +39,7 @@ ohmd.service
 >halium-10 nemomobile.service
 >halium-10 sensorfwd.service
 
+# halium-11
 >halium-11 ofono.service
 >halium-11 ofonoctl.service
 >halium-11 halium11-post-install.service
@@ -50,6 +53,7 @@ ohmd.service
 >halium-11 nemomobile.service
 >halium-11 sensorfwd.service
 
+# google-sargo
 >google-sargo google-sargo-post-install.service
 >google-sargo lxc@android.service
 >google-sargo android-mount.service
@@ -63,6 +67,7 @@ ohmd.service
 >google-sargo nemomobile.service
 >google-sargo sensorfwd.service
 
+# xiaomi-onclite
 >xiaomi-onclite xiaomi-onclite-adaptation.service
 >xiaomi-onclite brightnessperm.service
 >xiaomi-onclite lxc@android.service
@@ -78,6 +83,7 @@ ohmd.service
 >xiaomi-onclite nemomobile.service
 >xiaomi-onclite sensorfwd.service
 
+# xiaomi-lavender
 >xiaomi-lavender xiaomi-lavender-adaptation.service
 >xiaomi-lavender brightness.service
 >xiaomi-lavender lxc@android.service
@@ -93,6 +99,7 @@ ohmd.service
 >xiaomi-lavender nemomobile.service
 >xiaomi-lavender sensorfwd.service
 
+# xiaomi-dandelion
 >xiaomi-dandelion xiaomi-dandelion-adaptation.service
 >xiaomi-dandelion ssh-fix.service
 >xiaomi-dandelion brightness.service
@@ -109,6 +116,7 @@ ohmd.service
 >xiaomi-dandelion nemomobile.service
 >xiaomi-dandelion sensorfwd.service
 
+# xiaomi-miatoll
 >xiaomi-miatoll xiaomi-miatoll-adaptation.service
 >xiaomi-miatoll miatoll-postboot.service
 >xiaomi-miatoll enable-ipa.service
@@ -125,6 +133,7 @@ ohmd.service
 >xiaomi-miatoll nemomobile.service
 >xiaomi-miatoll sensorfwd.service
 
+# samsung-starqlte
 >samsung-starqlte samsung-starqlte-adaptation.service
 >samsung-starqlte audiohal.service
 >samsung-starqlte flashlight-perm.service
@@ -140,3 +149,19 @@ ohmd.service
 >samsung-starqlte bluebinder.service
 >samsung-starqlte nemomobile.service
 >samsung-starqlte sensorfwd.service
+
+# xiaomi-vayu
+>xiaomi-vayu xiaomi-vayu-adaptation.service
+>xiaomi-vayu brightness.service
+>xiaomi-vayu lxc@android.service
+>xiaomi-vayu android-mount.service
+>xiaomi-vayu ofono.service
+>xiaomi-vayu ofonoctl.service
+>xiaomi-vayu usb-tethering.service
+>xiaomi-vayu boot-wlan.service
+>xiaomi-vayu ipa-enable.service
+>xiaomi-vayu wcnss-enable.service
+>xiaomi-vayu lmk-disable.service
+>xiaomi-vayu bluebinder.service
+>xiaomi-vayu nemomobile.service
+>xiaomi-vayu sensorfwd.service

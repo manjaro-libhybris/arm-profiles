@@ -6,6 +6,7 @@ bluetooth.service
 zswap-arm.service
 systemd-oomd.service
 
+# halium-9
 >halium-9 halium9-post-install.service
 >halium-9 lxc@android.service
 >halium-9 android-mount.service
@@ -22,6 +23,7 @@ systemd-oomd.service
 >halium-9 batman.service
 >halium-9 gnome-session-unfailed.service
 
+# halium-10
 >halium-10 halium10-post-install.service
 >halium-10 lxc@android.service
 >halium-10 android-mount.service
@@ -38,6 +40,7 @@ systemd-oomd.service
 >halium-10 batman.service
 >halium-10 gnome-session-unfailed.service
 
+# halium-11
 >halium-11 halium11-post-install.service
 >halium-11 lxc@android.service
 >halium-11 android-mount.service
@@ -54,6 +57,7 @@ systemd-oomd.service
 >halium-11 batman.service
 >halium-11 gnome-session-unfailed.service
 
+# google-sargo
 >google-sargo google-sargo-post-install.service
 >google-sargo lxc@android.service
 >google-sargo android-mount.service
@@ -70,6 +74,7 @@ systemd-oomd.service
 >google-sargo batman.service
 >google-sargo gnome-session-unfailed.service
 
+# xiaomi-onclite
 >xiaomi-onclite xiaomi-onclite-adaptation.service
 >xiaomi-onclite brightnessperm.service
 >xiaomi-onclite lxc@android.service
@@ -87,6 +92,7 @@ systemd-oomd.service
 >xiaomi-onclite batman.service
 >xiaomi-onclite gnome-session-unfailed.service
 
+# xiaomi-lavender
 >xiaomi-lavender xiaomi-lavender-adaptation.service
 >xiaomi-lavender brightness.service
 >xiaomi-lavender lxc@android.service
@@ -104,6 +110,7 @@ systemd-oomd.service
 >xiaomi-lavender batman.service
 >xiaomi-lavender gnome-session-unfailed.service
 
+# xiaomi-dandelion
 >xiaomi-dandelion xiaomi-dandelion-adaptation.service
 >xiaomi-dandelion ssh-fix.service
 >xiaomi-dandelion pbhelper.service
@@ -123,6 +130,7 @@ systemd-oomd.service
 >xiaomi-dandelion batman.service
 >xiaomi-dandelion gnome-session-unfailed.service
 
+# xiaomi-miatoll
 >xiaomi-miatoll xiaomi-miatoll-adaptation.service
 >xiaomi-miatoll miatoll-postboot.service
 >xiaomi-miatoll enable-ipa.service
@@ -141,6 +149,7 @@ systemd-oomd.service
 >xiaomi-miatoll batman.service
 >xiaomi-miatoll gnome-session-unfailed.service
 
+# samsung-starqlte
 >samsung-starqlte samsung-starqlte-adaptation.service
 >samsung-starqlte audiohal.service
 >samsung-starqlte flashlight-perm.service
@@ -158,3 +167,20 @@ systemd-oomd.service
 >samsung-starqlte lmk-disable.service
 >samsung-starqlte batman.service
 >samsung-starqlte gnome-session-unfailed.service
+
+# xiaomi-vayu
+>xiaomi-vayu xiaomi-vayu-adaptation.service
+>xiaomi-vayu lxc@android.service
+>xiaomi-vayu android-mount.service
+>xiaomi-vayu ofono.service
+>xiaomi-vayu usb-tethering.service
+>xiaomi-vayu iio-sensor-proxy.service
+>xiaomi-vayu bluebinder.service
+>xiaomi-vayu ModemManager.service
+>xiaomi-vayu sensorfwd.service
+>xiaomi-vayu boot-wlan.service
+>xiaomi-vayu ipa-enable.service
+>xiaomi-vayu wcnss-enable.service
+>xiaomi-vayu lmk-disable.service
+>xiaomi-vayu batman.service
+>xiaomi-vayu gnome-session-unfailed.service

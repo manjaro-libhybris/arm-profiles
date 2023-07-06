@@ -1,5 +1,6 @@
 ## Maintained by Bardia Moshiri ##
 
+# halium-9
 >halium-9 pulseaudio-hybris
 >halium-9 sensorfw-hybris
 >halium-9 hadess-sensorfw-proxy
@@ -7,6 +8,7 @@
 >halium-9 drihybris
 >halium-9 xf86-video-hwcomposer
 
+# halium-10
 >halium-10 pulseaudio-hybris
 >halium-10 sensorfw-hybris
 >halium-10 hadess-sensorfw-proxy
@@ -14,6 +16,7 @@
 >halium-10 drihybris
 >halium-10 xf86-video-hwcomposer
 
+# halium-11
 >halium-11 pulseaudio-hybris
 >halium-11 sensorfw-hybris
 >halium-11 hadess-sensorfw-proxy
@@ -21,6 +24,7 @@
 >halium-11 drihybris
 >halium-11 xf86-video-hwcomposer
 
+# google-sargo
 >google-sargo pulseaudio-hybris
 >google-sargo sensorfw-hybris
 >google-sargo hadess-sensorfw-proxy
@@ -28,6 +32,7 @@
 >google-sargo drihybris
 >google-sargo xf86-video-hwcomposer
 
+# xiaomi-onclite
 >xiaomi-onclite pulseaudio-hybris
 >xiaomi-onclite sensorfw-hybris
 >xiaomi-onclite hadess-sensorfw-proxy
@@ -35,6 +40,7 @@
 >xiaomi-onclite drihybris
 >xiaomi-onclite xf86-video-hwcomposer
 
+# xiaomi-lavender
 >xiaomi-lavender pulseaudio-hybris
 >xiaomi-lavender sensorfw-hybris
 >xiaomi-lavender hadess-sensorfw-proxy
@@ -42,6 +48,7 @@
 >xiaomi-lavender drihybris
 >xiaomi-lavender xf86-video-hwcomposer
 
+# xiaomi-miatoll
 >xiaomi-miatoll pulseaudio-hybris
 >xiaomi-miatoll sensorfw-hybris
 >xiaomi-miatoll hadess-sensorfw-proxy
@@ -49,6 +56,7 @@
 >xiaomi-miatoll drihybris
 >xiaomi-miatoll xf86-video-hwcomposer
 
+# xiaomi-dandelion
 >xiaomi-dandelion pulseaudio-hybris
 >xiaomi-dandelion sensorfw-hybris
 >xiaomi-dandelion hadess-sensorfw-proxy
@@ -56,12 +64,21 @@
 >xiaomi-dandelion drihybris
 >xiaomi-dandelion xf86-video-hwcomposer
 
+# samsung-starqlte
 >samsung-starqlte pulseaudio-hybris
 >samsung-starqlte sensorfw-hybris
 >samsung-starqlte hadess-sensorfw-proxy
 >samsung-starqlte glamor-hybris
 >samsung-starqlte drihybris
 >samsung-starqlte xf86-video-hwcomposer
+
+# xiaomi-vayu
+>xiaomi-vayu pulseaudio-hybris
+>xiaomi-vayu sensorfw-hybris
+>xiaomi-vayu hadess-sensorfw-proxy
+>xiaomi-vayu glamor-hybris
+>xiaomi-vayu drihybris
+>xiaomi-vayu xf86-video-hwcomposer
 
 # Minimal packages
 sudo

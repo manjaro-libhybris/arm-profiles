@@ -171,6 +171,25 @@
 >samsung-starqlte gst-droid
 >samsung-starqlte libaperture-hybris
 
+# xiaomi-vayu
+>xiaomi-vayu pulseaudio-hybris
+>xiaomi-vayu phosh-hybris
+>xiaomi-vayu phoc-hybris
+>xiaomi-vayu wlroots-hybris
+>xiaomi-vayu phosh-config-hybris
+>xiaomi-vayu gst-plugins-bad-hybris
+>xiaomi-vayu gst-plugins-bad-libs-hybris
+>xiaomi-vayu gst-plugin-wpe-hybris
+>xiaomi-vayu callaudiod-hybris
+>xiaomi-vayu gnome-settings-daemon-hybris
+>xiaomi-vayu gnome-calls
+>xiaomi-vayu sensorfw-hybris
+>xiaomi-vayu feedbackd-hybris
+>xiaomi-vayu hadess-sensorfw-proxy
+>xiaomi-vayu flashlightd
+>xiaomi-vayu gst-droid
+>xiaomi-vayu libaperture-hybris
+
 # Minimal packages
 sudo
 parted
