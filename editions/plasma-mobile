@@ -7,6 +7,7 @@
 >halium-9 glamor-hybris
 >halium-9 drihybris
 >halium-9 xf86-video-hwcomposer
+>halium-9 plasmashell-config-hybris
 
 # halium-10
 >halium-10 pulseaudio-hybris
@@ -15,6 +16,7 @@
 >halium-10 glamor-hybris
 >halium-10 drihybris
 >halium-10 xf86-video-hwcomposer
+>halium-10 plasmashell-config-hybris
 
 # halium-11
 >halium-11 pulseaudio-hybris
@@ -23,6 +25,7 @@
 >halium-11 glamor-hybris
 >halium-11 drihybris
 >halium-11 xf86-video-hwcomposer
+>halium-11 plasmashell-config-hybris
 
 # google-sargo
 >google-sargo pulseaudio-hybris
@@ -31,6 +34,7 @@
 >google-sargo glamor-hybris
 >google-sargo drihybris
 >google-sargo xf86-video-hwcomposer
+>google-sargo plasmashell-config-hybris
 
 # xiaomi-onclite
 >xiaomi-onclite pulseaudio-hybris
@@ -39,6 +43,7 @@
 >xiaomi-onclite glamor-hybris
 >xiaomi-onclite drihybris
 >xiaomi-onclite xf86-video-hwcomposer
+>xiaomi-onclite plasmashell-config-hybris
 
 # xiaomi-lavender
 >xiaomi-lavender pulseaudio-hybris
@@ -47,6 +52,7 @@
 >xiaomi-lavender glamor-hybris
 >xiaomi-lavender drihybris
 >xiaomi-lavender xf86-video-hwcomposer
+>xiaomi-lavender plasmashell-config-hybris
 
 # xiaomi-miatoll
 >xiaomi-miatoll pulseaudio-hybris
@@ -55,6 +61,7 @@
 >xiaomi-miatoll glamor-hybris
 >xiaomi-miatoll drihybris
 >xiaomi-miatoll xf86-video-hwcomposer
+>xiaomi-miatoll plasmashell-config-hybris
 
 # xiaomi-dandelion
 >xiaomi-dandelion pulseaudio-hybris
@@ -63,6 +70,7 @@
 >xiaomi-dandelion glamor-hybris
 >xiaomi-dandelion drihybris
 >xiaomi-dandelion xf86-video-hwcomposer
+>xiaomi-dandelion plasmashell-config-hybris
 
 # samsung-starqlte
 >samsung-starqlte pulseaudio-hybris
@@ -71,6 +79,7 @@
 >samsung-starqlte glamor-hybris
 >samsung-starqlte drihybris
 >samsung-starqlte xf86-video-hwcomposer
+>samsung-starqlte plasmashell-config-hybris
 
 # xiaomi-vayu
 >xiaomi-vayu pulseaudio-hybris
@@ -79,6 +88,7 @@
 >xiaomi-vayu glamor-hybris
 >xiaomi-vayu drihybris
 >xiaomi-vayu xf86-video-hwcomposer
+>xiaomi-vayu plasmashell-config-hybris
 
 # Minimal packages
 sudo
